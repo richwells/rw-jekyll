@@ -1,0 +1,64 @@
+@import '_sass/responsive.css.scss';
+
+.post {
+  &.creativity {
+  }
+}
+.rw-logo a {
+  text-indent: -9000em;
+  display: block;
+  background: url(/img/rw_logo.png) no-repeat top center;
+  width:100%;
+  height: 40px;
+  background-size: 117px;
+  @include media-query (sm) {
+    width: 110px;
+
+  }
+}
+.masthead {
+  height:80px;
+}
+
+.masthead-title {
+  @include media-query (sm) {
+    float:left;
+  }
+}
+.container-header {
+  @include media-query (lg) {
+    max-width:1200px;
+  }
+}
+.sidebar-toggle {
+  @include media-query (sm) {
+    display:none;
+  }
+}
+
+ul.header-nav {
+  float:right;
+  display:none;
+  list-style-type:none;
+  margin:0;
+  li {
+    list-style-type:none;
+    margin:0;
+    float:left;
+    a {
+      color:black;
+      float:left;
+      margin: 0 0 0 24px;
+      i {
+        font-size: 22px;
+        line-height: 30px;
+      }
+    }
+  }
+  @include media-query (sm) {
+    display:block;
+  }
+}
+.about .nav-about {
+  font-weight:bold;
+}

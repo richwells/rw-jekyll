@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highighter:       true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Rich Wells
+tagline:          ''
+description:      'Creative Director at <a href="http://yoomee.com" target="_blank">Yoomee</a>.Husband, Dad, Disciple. <a href="https://twitter.com/richwells" target="_blank">@richwells</a>.'
+url:              http://richwells.me
+
+author:
+  name:           'Rich Wells'
+  url:            https://twitter.com/richwells
+
+paginate:         10
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           ''

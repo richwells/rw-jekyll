@@ -1,10 +1,29 @@
 @import '_sass/responsive.css.scss';
 @import '_sass/blog.css.scss';
 
-.post {
-  &.creativity {
+a {
+  color:#000;
+}
+
+$accent: #27b321 !default;
+
+
+.post p a {
+  border-bottom: 1px solid #000;
+  &:hover {
+    text-decoration:none;
+    border-bottom-color:$accent;
   }
 }
+.read-more-link {
+  font-weight:bold;
+  border-bottom: 2px solid #000;
+  &:hover {
+    text-decoration:none;
+    border-bottom-color:$accent;
+  }
+}
+
 .rw-logo a {
   text-indent: -9000em;
   display: block;

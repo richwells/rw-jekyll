@@ -74,15 +74,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_posts\/2013-12-31-whats-jekyll-test-three.md": {
+	"\/_posts\/2014-11-22-better-google-tasks.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/2013-12-31-whats-jekyll-test-three.md",
-		"outputAbbreviatedPath": "\/_posts\/2013-12-31-whats-jekyll-test-three.html",
+		"inputAbbreviatedPath": "\/_posts\/2014-11-22-better-google-tasks.md",
+		"outputAbbreviatedPath": "\/_posts\/2014-11-22-better-google-tasks.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1403,15 +1403,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/2013\/12\/31\/whats-jekyll-test-three\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/2013\/12\/31\/whats-jekyll-test-three\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/2014\/01\/11\/the-level-collective\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1664,6 +1655,31 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/css\/rw.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/css\/rw.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/css\/rw.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/css\/rw.scss",
+		"outputAbbreviatedPath": "\/_site\/css\/rw.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/_site\/css\/syntax.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -1691,6 +1707,61 @@
 		"initialSize": 368619,
 		"inputAbbreviatedPath": "\/_site\/downloads\/candles.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/candles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/sketches-of-spain-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129117,
+		"inputAbbreviatedPath": "\/_site\/downloads\/sketches-of-spain-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/sketches-of-spain-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/sketches-of-spain-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 187740,
+		"inputAbbreviatedPath": "\/_site\/downloads\/sketches-of-spain-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/sketches-of-spain-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/sketches-of-spain-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154739,
+		"inputAbbreviatedPath": "\/_site\/downloads\/sketches-of-spain-3.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/sketches-of-spain-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/sketches-of-spain.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142826,
+		"inputAbbreviatedPath": "\/_site\/downloads\/sketches-of-spain.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/sketches-of-spain.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/stretch-o-clock.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 199632,
+		"inputAbbreviatedPath": "\/_site\/downloads\/stretch-o-clock.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/stretch-o-clock.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4005,6 +4076,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/100-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14509,
+		"inputAbbreviatedPath": "\/_site\/img\/100-tn.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/100-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/apple-touch-icon-144-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4016,6 +4098,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/blog-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23249,
+		"inputAbbreviatedPath": "\/_site\/img\/blog-tn.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/blog-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/hello.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27523,
+		"inputAbbreviatedPath": "\/_site\/img\/hello.png",
+		"outputAbbreviatedPath": "\/_site\/img\/hello.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/rw_logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4023,6 +4127,28 @@
 		"initialSize": 1782,
 		"inputAbbreviatedPath": "\/_site\/img\/rw_logo.png",
 		"outputAbbreviatedPath": "\/_site\/img\/rw_logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/sophie-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20037,
+		"inputAbbreviatedPath": "\/_site\/img\/sophie-tn.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/sophie-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/yoomee-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18702,
+		"inputAbbreviatedPath": "\/_site\/img\/yoomee-tn.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/yoomee-tn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4119,31 +4245,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/public\/css\/rw.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/public\/css\/rw.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/public\/css\/rw.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/public\/css\/rw.scss",
-		"outputAbbreviatedPath": "\/_site\/public\/css\/rw.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
 		},
 	"\/_site\/README.md": {
 		"enableFootnoteSupport": 0,
@@ -4400,15 +4501,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/tag\/hendersons relish\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/tag\/hendersons relish\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/tag\/holiday\/index.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -4477,6 +4569,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/tag\/ipad art\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/tag\/ipad-art\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/ipad-art\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -4679,15 +4780,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/tag\/tdf\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/tag\/tdf\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/tag\/tearfund\/index.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -4823,15 +4915,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/tag\/yorkshire\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/tag\/yorkshire\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/tags\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -4952,6 +5035,61 @@
 		"initialSize": 368619,
 		"inputAbbreviatedPath": "\/downloads\/candles.jpg",
 		"outputAbbreviatedPath": "\/downloads\/candles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/sketches-of-spain-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129117,
+		"inputAbbreviatedPath": "\/downloads\/sketches-of-spain-1.jpg",
+		"outputAbbreviatedPath": "\/downloads\/sketches-of-spain-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/sketches-of-spain-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 564994,
+		"inputAbbreviatedPath": "\/downloads\/sketches-of-spain-2.jpg",
+		"outputAbbreviatedPath": "\/downloads\/sketches-of-spain-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/sketches-of-spain-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154739,
+		"inputAbbreviatedPath": "\/downloads\/sketches-of-spain-3.jpg",
+		"outputAbbreviatedPath": "\/downloads\/sketches-of-spain-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/sketches-of-spain.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142826,
+		"inputAbbreviatedPath": "\/downloads\/sketches-of-spain.jpg",
+		"outputAbbreviatedPath": "\/downloads\/sketches-of-spain.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/stretch-o-clock.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107896,
+		"inputAbbreviatedPath": "\/downloads\/stretch-o-clock.jpg",
+		"outputAbbreviatedPath": "\/downloads\/stretch-o-clock.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -7266,6 +7404,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/100-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14509,
+		"inputAbbreviatedPath": "\/img\/100-tn.jpg",
+		"outputAbbreviatedPath": "\/img\/100-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/apple-touch-icon-144-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -7277,6 +7426,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/blog-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23249,
+		"inputAbbreviatedPath": "\/img\/blog-tn.jpg",
+		"outputAbbreviatedPath": "\/img\/blog-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/hello.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27523,
+		"inputAbbreviatedPath": "\/img\/hello.png",
+		"outputAbbreviatedPath": "\/img\/hello.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/rw_logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -7284,6 +7455,28 @@
 		"initialSize": 1782,
 		"inputAbbreviatedPath": "\/img\/rw_logo.png",
 		"outputAbbreviatedPath": "\/img\/rw_logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sophie-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20037,
+		"inputAbbreviatedPath": "\/img\/sophie-tn.jpg",
+		"outputAbbreviatedPath": "\/img\/sophie-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/yoomee-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18702,
+		"inputAbbreviatedPath": "\/img\/yoomee-tn.jpg",
+		"outputAbbreviatedPath": "\/img\/yoomee-tn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -7308,31 +7501,6 @@
 		"outputAbbreviatedPath": "\/LICENSE.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/public\/css\/rw.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/css\/rw.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/css\/rw.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/css\/rw.scss",
-		"outputAbbreviatedPath": "\/public\/css\/rw.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
 		},
 	"\/README.md": {
 		"enableFootnoteSupport": 0,

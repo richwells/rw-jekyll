@@ -2,55 +2,13 @@
 layout: page
 body-class: about
 ---
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
-
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-  {% else %}
-    <span>&laquo; Prev</span>
-  {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
-</div>
-{% endif %}
 
 
 
 <div class="home">
   <div class="lower-strip">
     <div class="about-wrap anim-150 mt-3">
-      <h1>Hello</h1>
+      <img src="/img/hello.png" alt="My blog">
       <h2 class="about-intro">
         I’m a designer who loves to make things, tell stories and solve problems.
       </h2>
@@ -58,7 +16,7 @@ body-class: about
       <ul class="listy listy-big unstyled">
         <li>
           <a href="http://yoomee.com" class="listy-left" target="_blank">
-            <img src="img/yoomee-tn.jpg" alt="Yoomee Digital">
+            <img src="/img/yoomee-tn.jpg" alt="Yoomee Digital">
           </a>
           <div class="listy-right">
             I’m creative director at <a href="http://yoomee.com" class="list-with-img-link" target="_blank">Yoomee</a>. We build websites for charities and organisations who want to do good things.
@@ -66,7 +24,7 @@ body-class: about
         </li>
         <li>
           <a href="http://blog.richwells.me" class="listy-left" target="_blank">
-            <img src="img/blog-tn.jpg" alt="My blog">
+            <img src="/img/blog-tn.jpg" alt="My blog">
           </a>
           <div class="listy-right">
             I spend lots of my time drawing, and regularly post doodles, ideas and thoughts <a href="http://blog.richwells.me">here</a>. It's my sketchbook for the internet.
@@ -74,7 +32,7 @@ body-class: about
         </li>
         <li>
           <a href="http://dayoffwithsophie.tumblr.com" class="listy-left" target="_blank">
-            <img src="img/sophie-tn.jpg" alt="Day off with Sophie">
+            <img src="/img/sophie-tn.jpg" alt="Day off with Sophie">
           </a>
           <div class="listy-right">
             On Tuesdays I take the day off to explore the world with my daughter Sophie. We have a lot of fun, and <a href="http://dayoffwithsophie.tumblr.com/" target="_blank">this blog</a> records what we get up to.
@@ -82,7 +40,7 @@ body-class: about
         </li>
         <li>
           <a href="http://100daybiblechallenge.com" class="listy-left" target="_blank">
-            <img src="img/100-tn.jpg" alt="Day off with Sophie">
+            <img src="/img/100-tn.jpg" alt="Day off with Sophie">
           </a>
           <div class="listy-right">
             I like a challenge. A while back I created 100 illustrations over 100 days for a project I set up at my church. You can download all the images for free <a href="http://100daybiblechallenge.com" target="_blank">here.</a>
@@ -146,12 +104,45 @@ body-class: about
 
 </div>
 
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-ruby -rubygems -e 'require "jekyll-import";
-    JekyllImport::Importers::Tumblr.run({
-      "url"            => "http://richiewells.tumblr.com",
-      "format"         => "html", # or "md"
-      "grab_images"    => true,  # whether to download images as well.
-      "add_highlights" => false,  # whether to wrap code blocks (indented 4 spaces) in a Liquid "highlight" tag
-      "rewrite_urls"   => false   # whether to write pages that redirect from the old Tumblr paths to the new Jekyll paths
-    })'
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}

@@ -1,13 +1,34 @@
 ---
 layout: default
 ---
+<div class="container content">
+  <div class="post">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <span class="post-date">{{ page.date | date_to_string }}</span>
+    {{ content }}
+  </div>
+</div> <!-- end container -->
 
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  {{ content }}
+<div class="related-strip">
+  <h2>Related Posts</h2>
+  <div class="grid">
+    {% for post in site.related_posts limit:6 %}
+      <div class="col-1-2 col-related">
+        <a href="{{ post.url }}">
+          <img src="/downloads/{{post.img}}" alt="{{ post.title }}" class="post-img"/>
+          <h3 class="post-title">{{ post.title }}</h3>
+          <small>{{ post.date | date_to_string }}</small>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
 </div>
 
+
+
+
+
+{% comment %}
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
@@ -23,3 +44,29 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+
+
+<div class="post post-preview {{ post.tags }}">
+  <h1 class="post-title">
+    <a href="{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </h1>
+  <span class="post-date">{{ post.date | date_to_string }}</span>
+  <a href="{{ post.url }}">
+    <img src="/downloads/{{post.img}}" alt="{{ post.title }}" class="post-img"/>
+  </a>
+  <p>
+    {% if post.intro %}
+      {{ post.intro }}
+    {% else %}
+      {{ post.content }}
+    {% endif %}
+  </p>
+  <a class="read-more-link" href="{{ post.url }}">Read more</a>
+
+</div>
+
+
+
+{% endcomment %}

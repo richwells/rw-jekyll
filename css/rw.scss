@@ -1,5 +1,9 @@
 @import '_sass/responsive.css.scss';
+@import '_sass/grid.css.scss';
+@import '_sass/footer.css.scss';
+@import '_sass/about.css.scss';
 @import '_sass/blog.css.scss';
+
 
 a {
   color:#000;
@@ -8,14 +12,14 @@ a {
 $accent: #27b321 !default;
 
 
-.post p a {
+.post p a, .footer a {
   border-bottom: 1px solid #000;
   &:hover {
     text-decoration:none;
     border-bottom-color:$accent;
   }
 }
-.read-more-link {
+.read-more-link, .cta {
   font-weight:bold;
   border-bottom: 2px solid #000;
   &:hover {
@@ -39,6 +43,9 @@ $accent: #27b321 !default;
 .masthead {
   padding: 17px 0;
   min-height: 68px;
+}
+.about .masthead {
+  margin:0;
 }
 
 .masthead-title {

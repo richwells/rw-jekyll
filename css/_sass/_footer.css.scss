@@ -1,0 +1,23 @@
+.footer {
+  border-top: 1px solid #eee;
+  float:left;
+  width:100%;
+}
+.footer-list, .footer-list li {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  a {
+    border:none;
+  }
+}
+.footer-container {
+  max-width:1400px;
+  margin:0 auto;
+  padding:40px;
+  clear:both;
+}
+.col-networks,
+.col-play {
+  float:right;
+}

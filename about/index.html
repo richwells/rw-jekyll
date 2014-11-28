@@ -1,14 +1,16 @@
 ---
-layout: page
+layout: blank
 body-class: about
 ---
-
-
+<div class="about-header">
+  <div class="hello-wrap">
+    <img src="/img/hello.png" alt="Hello, my name is Rich" class="hello-bubble">
+  </div>
+</div>
 
 <div class="home">
   <div class="lower-strip">
     <div class="about-wrap anim-150 mt-3">
-      <img src="/img/hello.png" alt="My blog">
       <h2 class="about-intro">
         I’m a designer who loves to make things, tell stories and solve problems.
       </h2>
@@ -48,37 +50,9 @@ body-class: about
         </li>
       </ul>
 
-      <ul class="elsewhere-links elsewhere-links-home row unstyled">
-         <li class="">
-            <a href="http://twitter.com/richwells" class="twitter" target="_blank"> <i class="fa fa-twitter"></i>
-            <span>Twitter</span></a>
-         </li>
-         <li class="">
-            <a href="http://instagram.com/richwells" class="instagram" target="_blank"> <i class="fa fa-instagram"></i> <span> Instagram</span></a>
-         </li>
-         <li class="">
-            <a href="http://www.pinterest.com/richiewells/" class="dribble" target="_blank"> <i class="fa fa-pinterest"></i> <span> Pinterest </span></a>
-         </li>
-         <li class="">
-            <a href="http://dribbble.com/richwells" class="dribble" target="_blank"> <i class="fa fa-dribbble"></i> <span> Dribbble </span></a>
-         </li>
-         <li class="flickr-list-item">
-            <a href="http://flickr.com/richwells" class="flickr" target="_blank"> <i class="fa fa-flickr"></i> <span> Flickr</span></a>
-         </li>
-         <li class="vimeo-list-item">
-            <a href="http://vimeo.com/richwells" class="vimeo" target="_blank"> <i class="fa fa-vimeo-square"></i> <span> Vimeo </span></a>
-         </li>
-         <li class="">
-            <a href="http://www.linkedin.com/pub/rich-wells/42/34/51" class="linkedin" target="_blank"> <i class="fa fa-linkedin"></i>
-            <span>LinkedIn </span></a>
-         </li>
-      </ul>
   </div>
 
-
-  <h1 class="page-heading">Hello</h1>
-  <h2>I’m a designer who loves to make things, tell stories and solve problems.</h2>
-
+{% comment %}
 
   {% for post in site.posts limit:25 %}<a
     href="{{ post.url }}" class="post-excerpt{% if post.photo_url %} photo{% endif %}">
@@ -146,3 +120,5 @@ body-class: about
   {% endif %}
 </div>
 {% endif %}
+
+{% endcomment %}

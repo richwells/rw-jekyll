@@ -11,6 +11,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_includes\/footer.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/footer.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/head.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -34,6 +43,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_includes\/sidebar.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_layouts\/blank.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/blank.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -74,15 +92,21 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_posts\/2014-11-22-better-google-tasks.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
+	"\/_posts\/2014-11-18-christmas-film.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/2014-11-22-better-google-tasks.md",
-		"outputAbbreviatedPath": "\/_posts\/2014-11-22-better-google-tasks.html",
+		"inputAbbreviatedPath": "\/_posts\/2014-11-18-christmas-film.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_posts\/2014-11-22-better-google-tasks.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/2014-11-22-better-google-tasks.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -818,11 +842,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_posts\/tumblr\/2014-05-14-just-wanted-to-say-a-huge-thank-you-to-everyone.html": {
+	"\/_posts\/tumblr\/2014-05-14-a-big-thank-you.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/tumblr\/2014-05-14-just-wanted-to-say-a-huge-thank-you-to-everyone.html",
+		"inputAbbreviatedPath": "\/_posts\/tumblr\/2014-05-14-a-big-thank-you.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1574,11 +1598,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/2014\/05\/14\/just-wanted-to-say-a-huge-thank-you-to-everyone\/index.html": {
+	"\/_site\/2014\/05\/14\/a-big-thank-you\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/2014\/05\/14\/just-wanted-to-say-a-huge-thank-you-to-everyone\/index.html",
+		"inputAbbreviatedPath": "\/_site\/2014\/05\/14\/a-big-thank-you\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1619,6 +1643,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/2014\/11\/21\/christmas-film\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/2014\/11\/21\/christmas-film\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/2014\/11\/22\/better-google-tasks\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/2014\/11\/22\/better-google-tasks\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/404\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1633,6 +1675,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/about\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/css\/font-awesome.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/css\/font-awesome.min.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1700,13 +1751,35 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/downloads\/better-google-tasks.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73144,
+		"inputAbbreviatedPath": "\/_site\/downloads\/better-google-tasks.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/better-google-tasks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/downloads\/candles.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 368619,
+		"initialSize": 88744,
 		"inputAbbreviatedPath": "\/_site\/downloads\/candles.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/candles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/christmas-film.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62103,
+		"inputAbbreviatedPath": "\/_site\/downloads\/christmas-film.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/christmas-film.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1762,6 +1835,28 @@
 		"initialSize": 199632,
 		"inputAbbreviatedPath": "\/_site\/downloads\/stretch-o-clock.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/stretch-o-clock.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/summer-of-cycling.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 243296,
+		"inputAbbreviatedPath": "\/_site\/downloads\/summer-of-cycling.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/summer-of-cycling.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/thank-you.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95533,
+		"inputAbbreviatedPath": "\/_site\/downloads\/thank-you.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/thank-you.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4080,9 +4175,64 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 14509,
+		"initialSize": 18420,
 		"inputAbbreviatedPath": "\/_site\/img\/100-tn.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/100-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/about-header-md.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130778,
+		"inputAbbreviatedPath": "\/_site\/img\/about-header-md.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/about-header-md.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/about-header-sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36747,
+		"inputAbbreviatedPath": "\/_site\/img\/about-header-sm.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/about-header-sm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/about-header-xl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 239777,
+		"inputAbbreviatedPath": "\/_site\/img\/about-header-xl.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/about-header-xl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/about-header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 157451,
+		"inputAbbreviatedPath": "\/_site\/img\/about-header.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/about-header.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/about-header2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120079,
+		"inputAbbreviatedPath": "\/_site\/img\/about-header2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/about-header2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4102,9 +4252,31 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 23249,
+		"initialSize": 31309,
 		"inputAbbreviatedPath": "\/_site\/img\/blog-tn.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/blog-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1622,
+		"inputAbbreviatedPath": "\/_site\/img\/favicon.png",
+		"outputAbbreviatedPath": "\/_site\/img\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/hello-sm.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22098,
+		"inputAbbreviatedPath": "\/_site\/img\/hello-sm.png",
+		"outputAbbreviatedPath": "\/_site\/img\/hello-sm.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4113,7 +4285,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 27523,
+		"initialSize": 13022,
 		"inputAbbreviatedPath": "\/_site\/img\/hello.png",
 		"outputAbbreviatedPath": "\/_site\/img\/hello.png",
 		"outputPathIsOutsideProject": 0,
@@ -4135,7 +4307,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 20037,
+		"initialSize": 25623,
 		"inputAbbreviatedPath": "\/_site\/img\/sophie-tn.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/sophie-tn.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -4146,7 +4318,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 18702,
+		"initialSize": 22781,
 		"inputAbbreviatedPath": "\/_site\/img\/yoomee-tn.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/yoomee-tn.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -4368,7 +4540,7 @@
 		},
 	"\/_site\/tag\/cycling\/index.html": {
 		"fileType": 8192,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/tag\/cycling\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
@@ -4744,6 +4916,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/tag\/side-projects\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/side-projects\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/tag\/sketchbooks\/index.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -4933,6 +5114,22 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/css\/_sass\/_about.css.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/_sass\/_about.css.scss",
+		"outputAbbreviatedPath": "\/css\/css\/_about.css.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/css\/_sass\/_blog.css.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -4942,6 +5139,38 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/_sass\/_blog.css.scss",
 		"outputAbbreviatedPath": "\/css\/css\/_blog.css.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/css\/_sass\/_footer.css.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/_sass\/_footer.css.scss",
+		"outputAbbreviatedPath": "\/css\/css\/_footer.css.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/css\/_sass\/_grid.css.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/_sass\/_grid.css.scss",
+		"outputAbbreviatedPath": "\/css\/css\/_grid.css.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4964,6 +5193,15 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/css\/font-awesome.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/font-awesome.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/css\/lanyon.css": {
 		"fileType": 16,
@@ -5028,6 +5266,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/downloads\/better-google-tasks.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73144,
+		"inputAbbreviatedPath": "\/downloads\/better-google-tasks.jpg",
+		"outputAbbreviatedPath": "\/downloads\/better-google-tasks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/downloads\/candles.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5035,6 +5284,17 @@
 		"initialSize": 368619,
 		"inputAbbreviatedPath": "\/downloads\/candles.jpg",
 		"outputAbbreviatedPath": "\/downloads\/candles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/christmas-film.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62103,
+		"inputAbbreviatedPath": "\/downloads\/christmas-film.jpg",
+		"outputAbbreviatedPath": "\/downloads\/christmas-film.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5090,6 +5350,39 @@
 		"initialSize": 107896,
 		"inputAbbreviatedPath": "\/downloads\/stretch-o-clock.jpg",
 		"outputAbbreviatedPath": "\/downloads\/stretch-o-clock.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/summer-of-cycling.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 243296,
+		"inputAbbreviatedPath": "\/downloads\/summer-of-cycling.jpg",
+		"outputAbbreviatedPath": "\/downloads\/summer-of-cycling.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/team-yoomee.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76826,
+		"inputAbbreviatedPath": "\/downloads\/team-yoomee.png",
+		"outputAbbreviatedPath": "\/downloads\/team-yoomee.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/thank-you.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95533,
+		"inputAbbreviatedPath": "\/downloads\/thank-you.jpg",
+		"outputAbbreviatedPath": "\/downloads\/thank-you.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -7415,6 +7708,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/about-header-md.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130778,
+		"inputAbbreviatedPath": "\/img\/about-header-md.jpg",
+		"outputAbbreviatedPath": "\/img\/about-header-md.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/about-header-sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36747,
+		"inputAbbreviatedPath": "\/img\/about-header-sm.jpg",
+		"outputAbbreviatedPath": "\/img\/about-header-sm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/about-header-xl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 239777,
+		"inputAbbreviatedPath": "\/img\/about-header-xl.jpg",
+		"outputAbbreviatedPath": "\/img\/about-header-xl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/about-header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 157451,
+		"inputAbbreviatedPath": "\/img\/about-header.jpg",
+		"outputAbbreviatedPath": "\/img\/about-header.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/about-header2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120079,
+		"inputAbbreviatedPath": "\/img\/about-header2.jpg",
+		"outputAbbreviatedPath": "\/img\/about-header2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/apple-touch-icon-144-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -7437,11 +7785,33 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/favicon.png",
+		"outputAbbreviatedPath": "\/img\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/hello-sm.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/hello-sm.png",
+		"outputAbbreviatedPath": "\/img\/hello-sm.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/hello.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 27523,
+		"initialSize": 13022,
 		"inputAbbreviatedPath": "\/img\/hello.png",
 		"outputAbbreviatedPath": "\/img\/hello.png",
 		"outputPathIsOutsideProject": 0,

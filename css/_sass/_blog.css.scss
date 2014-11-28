@@ -1,3 +1,28 @@
 .read-more-link {
   font-weight:bold;
 }
+.related-strip {
+  background:#f5f5f5;
+  float:left;
+  width:100%;
+  padding:$pad;
+  h2 {
+    text-align:center;
+    margin-bottom:30px;
+  }
+  .col-related {
+    margin-bottom:$pad;
+  }
+  [class*='col-'] {
+    padding: 0 20px;
+  }
+  .grid {
+    @include media-query (lg) {
+      max-width:1200px;
+      float:none;
+      margin:0 auto;
+    }
+
+
+  }
+}

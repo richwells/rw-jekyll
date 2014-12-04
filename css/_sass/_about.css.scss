@@ -1,18 +1,40 @@
 /*=============================== Homepage  ================================*/
+
+/* Make nav have black bg for desktops */
+/* .about {
+  @include media-query (md) {
+    .masthead {
+      padding:0;
+    }
+    .container-header {
+      margin:0;
+      padding:0;
+    }
+    .header-nav {
+      background:#000;
+      padding: 10px 20px 10px 5px;
+    }
+
+  }
+} */
 .about-header {
-    background: #314414 url(/img/about-header-sm.jpg) no-repeat center 0px;
-    height: 480px;
+  background: #A53143 url(/img/about-header-xs.jpg) no-repeat center 70px;
+  height: 280px;
   @include media-query (xs) {
-  	background: #314414 url(/img/about-header-md.jpg) no-repeat center 0px;
-  	height: 480px;
+      background-image: url(/img/about-header-sm.jpg);
+      height: 450px;
   }
   @include media-query (sm) {
-    background: #314414 url(/img/about-header.jpg) no-repeat center 0px;
-    height: 480px;
+    background: #B99E89 url(/img/about-header-md.jpg) no-repeat center 0px;
+    height: 580px;
   }
   @include media-query (lg) {
-    background: #314414 url(/img/about-header-xl.jpg) no-repeat center 0px;
-    height:530px;
+    background: #B99E89 url(/img/about-header-lg.jpg) no-repeat center 0px;
+    height:690px;
+  }
+  @include media-query (xl) {
+    background: #B99E89 url(/img/about-header-xl.jpg) no-repeat center 0px;
+    height:880px;
   }
 }
 .hello-wrap {
@@ -79,10 +101,10 @@
 .listy-right {
 	width: 75%;
 	float: right;
-}
-.listy-right a {
-	border-bottom: 1px solid #fff;
-	border-bottom: 1px solid rgba(0,0,0,0.3);
+  letter-spacing: -0.2px;
+  a {
+    font-weight:bold;
+  }
 }
 .some-other-links {
 

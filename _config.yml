@@ -3,7 +3,7 @@ markdown:         redcarpet
 highighter:       true
 
 # Permalinks
-permalink:        pretty
+permalink:        /blog/:title
 
 # Setup
 title:            Rich Wells

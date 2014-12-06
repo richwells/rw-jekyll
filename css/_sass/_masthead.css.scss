@@ -1,34 +1,39 @@
-@import '_sass/responsive.css.scss';
-@import '_sass/grid.css.scss';
-@import '_sass/footer.css.scss';
-@import '_sass/about.css.scss';
-@import '_sass/blog.css.scss';
-
-
-a {
-  color:#000;
-}
-
-$accent: #27b321 !default;
-
-
-.post p a, .footer a, .listy-right a {
-  border-bottom: 1px solid #000;
-  &:hover {
-    text-decoration:none;
-    border-bottom-color:$accent;
-  }
-}
-.read-more-link, .cta {
-  font-weight:bold;
-  border-bottom: 2px solid #000;
-  &:hover {
-    text-decoration:none;
-    border-bottom-color:$accent;
-  }
-}
-
 /* Navigation stuff */
+
+/*
+* Masthead
+*
+* Super small header above the content for site name and short description.
+*/
+
+.masthead {
+  padding-top:    1rem;
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+}
+.masthead-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #505050;
+}
+.masthead-title a {
+  color: #505050;
+}
+.masthead-title small {
+  font-size: 75%;
+  font-weight: 400;
+  color: #c0c0c0;
+  letter-spacing: 0;
+}
+
+@media (max-width: 48em) {
+  .masthead-title {
+    text-align: center;
+  }
+  .masthead-title small {
+    display: none;
+  }
+}
 
 .rw-logo a {
   text-indent: -9000em;

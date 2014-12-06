@@ -1,0 +1,104 @@
+/*
+* Sidebar
+*
+* The sidebar is the drawer, the item we are toggling with our handy hamburger
+* button in the corner of the page.
+*
+* This particular sidebar implementation was inspired by Chris Coyier's
+* "Offcanvas Menu with CSS Target" article, and the checkbox variation from the
+* comments by a reader. It modifies both implementations to continue using the
+* checkbox (no change in URL means no polluted browser history), but this uses
+* `position` for the menu to avoid some potential content reflow issues.
+*
+* Source: http://css-tricks.com/off-canvas-menu-with-css-target/#comment-207504
+*/
+
+/* Style and "hide" the sidebar */
+.sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: -14rem;
+  width: 14rem;
+  visibility: hidden;
+  overflow-y: auto;
+  font-size: .875rem; /* 15px */
+  color: rgba(255,255,255,.6);
+  background-color: #202020;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+@media (min-width: 30em) {
+  .sidebar {
+    font-size: .75rem; /* 14px */
+  }
+}
+
+/* Sidebar content */
+.sidebar a {
+  font-weight: normal;
+  color: #fff;
+  float: left;
+  clear:both;
+  font-size:16px;
+  padding-top:3px;
+  padding-bottom:3px;
+  &.active, &:hover, &:focus {
+    text-decoration: none;
+    border-color: transparent;
+  }
+}
+.sidebar-item {
+  padding: 1rem;
+}
+.sidebar-item p:last-child {
+  margin-bottom: 0;
+}
+
+/* Sidebar nav */
+.sidebar-nav {
+  margin-top:10px;
+}
+.sidebar-nav-item {
+  display: block;
+  padding: .5rem 1rem;
+}
+.sidebar-nav-item {
+  text-indent: -9000em;
+  display:block;
+  background: url(/img/sidebar-doodles.png ) no-repeat 0 0;
+  width:100%;
+  height:20px;
+  @include media-query (retina) {
+    background: url(/img/sidebar-doodles-2x.png ) no-repeat 0 0;
+    background-size:162px 210px;
+  }
+  &.sidebar-blog {
+    background-position: 14px 10px;
+    height: 90px;
+  }
+  &.sidebar-about {
+    background-position: 14px -80px;
+    height: 60px;
+    margin: 0 0 30px;
+  }
+  &.sidebar-work-and-play {
+    background-position: -4px -170px;
+    height: 40px;
+    margin: 40px 0 0;
+  }
+}
+.sidebar-col {
+  padding:0 20px 40px;
+  float:left;
+}
+.sidebar-social {
+  float:left;
+  width:100%;
+  clear:both;
+  padding-left: 20px;
+  i {
+    font-size:18px;
+    margin-right:3px;
+  }
+}

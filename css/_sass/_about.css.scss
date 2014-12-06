@@ -18,7 +18,7 @@
   }
 } */
 .about-header {
-  background: #A53143 url(/img/about-header-xs.jpg) no-repeat center 70px;
+  background: #202020 url(/img/about-header-xs.jpg) no-repeat center 70px;
   height: 280px;
   @include media-query (xs) {
       background-image: url(/img/about-header-sm.jpg);

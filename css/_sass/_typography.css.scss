@@ -1,0 +1,53 @@
+
+html,
+body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Karla", Georgia, "Times New Roman", serif;
+  color:#515151;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Karla", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+a {
+  color:#000;
+}
+.post p a, .footer a, .listy-right a {
+  border-bottom: 1px solid #000;
+  &:hover {
+    text-decoration:none;
+    border-bottom-color:#ccc;
+  }
+}
+.read-more-link, .cta {
+  font-weight:bold;
+  border-bottom: 2px solid #000;
+  &:hover {
+    text-decoration:none;
+    border-bottom-color:#ccc;
+  }
+}
+
+.post p a, .footer a, .listy-right a {
+  border-bottom: 1px solid #000;
+  &:hover {
+    text-decoration:none;
+    border-bottom-color:#ccc;
+  }
+}
+.read-more-link, .cta {
+  font-weight:bold;
+  border-bottom: 2px solid #000;
+  &:hover {
+    text-decoration:none;
+    border-bottom-color:#ccc;
+  }
+}

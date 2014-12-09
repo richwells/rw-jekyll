@@ -113,8 +113,3 @@
     float:left;
   }
 }
-.post-title, .post-date {
-  @include media-query (sm-max) {
-    text-align:center;
-  }
-}

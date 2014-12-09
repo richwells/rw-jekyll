@@ -14,9 +14,9 @@ layout: default
   <div id="isotope" class="grid">
     {% for post in site.related_posts limit:6 %}
       <div class="col-1-3 col-related">
-        <a href="{{ post.url }}">
+        <a href="{{ site.baseurl }}{{ post.url }}">
           <span class="post-img-wrap">
-            <img src="/downloads/{{post.img}}" alt="{{ post.title }}" class="post-img"/>
+            <img src="{{ site.baseurl }}/downloads/{{post.img}}" alt="{{ post.title }}" class="post-img"/>
           </span>
           <h3 class="post-title">{{ post.title }}</h3>
           <small>{{ post.date | date_to_string }}</small>

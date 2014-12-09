@@ -1538,8 +1538,8 @@ ul.header-nav li a i { font-size: 22px; line-height: 30px; }
 
 .sidebar-nav-item { display: block; padding: .5rem 1rem; }
 
-.sidebar-nav-item { text-indent: -9000em; display: block; background: url(/img/sidebar-doodles.png) no-repeat 0 0; width: 100%; height: 20px; }
-@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { .sidebar-nav-item { background: url(/img/sidebar-doodles-2x.png) no-repeat 0 0; background-size: 162px 210px; } }
+.sidebar-nav-item { text-indent: -9000em; display: block; background: url(../img/sidebar-doodles.png) no-repeat 0 0; width: 100%; height: 20px; }
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { .sidebar-nav-item { background: url(../img/sidebar-doodles-2x.png) no-repeat 0 0; background-size: 162px 210px; } }
 .sidebar-nav-item.sidebar-blog { background-position: 14px 10px; height: 90px; }
 .sidebar-nav-item.sidebar-about { background-position: 14px -80px; height: 60px; margin: 0 0 30px; }
 .sidebar-nav-item.sidebar-work-and-play { background-position: -4px -170px; height: 40px; margin: 40px 0 0; }
@@ -1563,11 +1563,11 @@ ul.header-nav li a i { font-size: 22px; line-height: 30px; }
 /* .about { @include media-query (md) { .masthead { padding:0; } .container-header { margin:0; padding:0; } .header-nav { background:#000; padding: 10px 20px 10px 5px; }
  }
 } */
-.about-header { background: #202020 url(/img/about-header-xs.jpg) no-repeat center 70px; height: 280px; }
-@media only screen and (min-width: 450px) { .about-header { background-image: url(/img/about-header-sm.jpg); height: 450px; } }
-@media only screen and (min-width: 769px) { .about-header { background: #B99E89 url(/img/about-header-md.jpg) no-repeat center 0px; height: 580px; } }
-@media only screen and (min-width: 1200px) { .about-header { background: #B99E89 url(/img/about-header-lg.jpg) no-repeat center 0px; height: 690px; } }
-@media only screen and (min-width: 1400px) { .about-header { background: #B99E89 url(/img/about-header-xl.jpg) no-repeat center 0px; height: 880px; } }
+.about-header { background: #202020 url(../img/about-header-xs.jpg) no-repeat center 70px; height: 280px; }
+@media only screen and (min-width: 450px) { .about-header { background-image: url(../img/about-header-sm.jpg); height: 450px; } }
+@media only screen and (min-width: 769px) { .about-header { background: #B99E89 url(../img/about-header-md.jpg) no-repeat center 0px; height: 580px; } }
+@media only screen and (min-width: 1200px) { .about-header { background: #B99E89 url(../img/about-header-lg.jpg) no-repeat center 0px; height: 690px; } }
+@media only screen and (min-width: 1400px) { .about-header { background: #B99E89 url(../img/about-header-xl.jpg) no-repeat center 0px; height: 880px; } }
 
 .hello-wrap { float: left; width: 100%; }
 

@@ -18,22 +18,22 @@
   }
 } */
 .about-header {
-  background: #202020 url(/img/about-header-xs.jpg) no-repeat center 70px;
+  background: #202020 url(../img/about-header-xs.jpg) no-repeat center 70px;
   height: 280px;
   @include media-query (xs) {
-      background-image: url(/img/about-header-sm.jpg);
+      background-image: url(../img/about-header-sm.jpg);
       height: 450px;
   }
   @include media-query (sm) {
-    background: #B99E89 url(/img/about-header-md.jpg) no-repeat center 0px;
+    background: #B99E89 url(../img/about-header-md.jpg) no-repeat center 0px;
     height: 580px;
   }
   @include media-query (lg) {
-    background: #B99E89 url(/img/about-header-lg.jpg) no-repeat center 0px;
+    background: #B99E89 url(../img/about-header-lg.jpg) no-repeat center 0px;
     height:690px;
   }
   @include media-query (xl) {
-    background: #B99E89 url(/img/about-header-xl.jpg) no-repeat center 0px;
+    background: #B99E89 url(../img/about-header-xl.jpg) no-repeat center 0px;
     height:880px;
   }
 }

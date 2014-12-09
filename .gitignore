@@ -21,6 +21,7 @@ _site
 Thumbs.db
 .cache
 .project
+.codekit-cache
 .settings
 .tmproj
 *.esproj

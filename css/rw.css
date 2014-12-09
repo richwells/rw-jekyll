@@ -1697,4 +1697,6 @@ a.next-link { text-align: center; width: 100%; font-size: 18px; line-height: 2; 
 .col-related a img.post-img:hover { opacity: 0.9; }
 .col-related .post-img-wrap { display: block; width: 100%; float: left; }
 
+@media only screen and (max-width: 953px) { .post-title, .post-date { text-align: center; } }
+
 /*# sourceMappingURL=rw.css.map */

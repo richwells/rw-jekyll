@@ -1589,7 +1589,7 @@ h2.about-intro { font-weight: normal; text-align: center; line-height: 1.2; font
 .listy a { color: #333; text-decoration: none; font-weight: 500; }
 .listy a img { margin: 0; }
 
-.listy-big { margin-top: 40px; font-size: 16px; font-weight: 300; }
+.listy-big { padding: 0; margin-top: 40px; font-size: 16px; font-weight: 300; }
 @media only screen and (min-width: 769px) { .listy-big { font-size: 26px; } }
 
 .listy-left { float: left; width: 20%; }

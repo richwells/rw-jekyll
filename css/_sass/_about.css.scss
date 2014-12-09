@@ -58,41 +58,54 @@
 .lower-strip {
 	position: relative;
 	z-index: 10;
-	padding: 0 50px;
-
+  padding:0 10px;
+  @include media-query (sm) {
+    padding: 0 50px;
+  }
 }
 .about-wrap {
 	max-width: 800px;
 	margin: 0 auto;
 }
-.about-intro {
+h2.about-intro {
+  font-weight:normal;
 	text-align: center;
-	font-weight: 300;
-	color: #333;
-	font-size: 40px;
-	line-height: 1.2;
-	margin:90px 0;
+  line-height: 1.2;
+  font-size:23px;
+  margin:40px 0;
+  @include media-query (sm) {
+    font-size: 40px;
+    margin:70px 0;
+  }
 }
 .listy {
 	color: #333;
-
-}
-.listy li {
-	clear: both;
-	line-height: 1.4;
-	margin-bottom: 40px;
-	float: left;
-  list-style-type:none;
+  li {
+    clear: both;
+    line-height: 1.4;
+    float: left;
+    list-style-type:none;
+    margin-bottom:40px;
+    @include media-query (sm) {
+      margin-bottom: 40px;
+      }
+    }
+  a {
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+    img {
+      margin:0;
+    }
+  }
 }
 .listy-big {
 	margin-top: 40px;
-	font-size: 26px;
+	font-size: 16px;
 	font-weight: 300;
-}
-.listy a {
-	color: #333;
-	text-decoration: none;
-	font-weight: 500;
+  @include media-query (sm) {
+    font-size: 26px;
+  }
 }
 .listy-left {
 	float: left;
@@ -244,4 +257,11 @@ a.next-link {
 	padding: 10px 0;
 	background: #00c0eb;
 	color: #fff;
+}
+
+/* hide about thing in footer for mobile */
+.about .col-footer-about {
+  @include media-query (sm-max) {
+    display:none;
+  }
 }

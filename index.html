@@ -21,8 +21,8 @@ body-class: blog
       </h1>
       <span class="post-date">{{ post.date | date_to_string }}</span>
       {% if post.img %}
-        <a href="{{ post.url }}">
-          <img src="/downloads/{{post.img}}" alt="{{ post.title }}" class="post-img"/>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <img src="{{ site.baseurl }}/downloads/{{post.img}}" alt="{{ post.title }}" class="post-img"/>
         </a>
       {% endif %}
       <p>
@@ -30,7 +30,7 @@ body-class: blog
           {{ post.intro }}
         {% endif %}
       </p>
-      <a class="read-more-link" href="{{ post.url }}">Read more</a>
+      <a class="read-more-link" href="{{ site.baseurl }}{{ post.url }}">Read more</a>
 
     </div>
     {% endfor %}
@@ -38,7 +38,7 @@ body-class: blog
 
   <div class="pagination">
     {% if paginator.next_page %}
-      <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+      <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
     {% else %}
       <span class="pagination-item older">Older</span>
     {% endif %}
@@ -46,7 +46,7 @@ body-class: blog
       {% if paginator.page == 2 %}
         <a class="pagination-item newer" href="/">Newer</a>
       {% else %}
-        <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
+        <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
       {% endif %}
     {% else %}
       <span class="pagination-item newer">Newer</span>

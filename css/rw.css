@@ -1480,7 +1480,7 @@ a.pagination-item:hover { background-color: #f5f5f5; }
 
 @media (max-width: 48em) { .masthead-title { text-align: center; }
   .masthead-title small { display: none; } }
-.rw-logo a { text-indent: -9000em; display: block; background: url(/img/rw-logo.png) no-repeat top center; width: 100%; height: 40px; background-size: 117px; }
+.rw-logo a { text-indent: -9000em; display: block; background: url(../img/rw-logo.png) no-repeat top center; width: 100%; height: 40px; background-size: 117px; }
 @media only screen and (min-width: 769px) { .rw-logo a { width: 115px; } }
 
 .masthead { padding: 17px 0; min-height: 68px; }
@@ -1503,7 +1503,7 @@ ul.header-nav li a i { font-size: 22px; line-height: 30px; }
 
 .nav-fixed .masthead { position: absolute; top: 0px; left: 0px; width: 100%; float: left; }
 
-.inverted .rw-logo a { background-image: url(/img/rw-logo-white.png); }
+.inverted .rw-logo a { background-image: url(../img/rw-logo-white.png); }
 .inverted .sidebar-toggle:before { color: #fff; }
 .inverted ul.header-nav li a { color: #fff; }
 

@@ -1441,7 +1441,7 @@ a.pagination-item:hover { background-color: #f5f5f5; }
 
 @media (min-width: 38em) { .container { max-width: 32rem; } }
 @media (min-width: 56em) { .container { max-width: 38rem; } }
-.grid { padding: 0 0 30px 0; }
+.grid { padding: 0; }
 .grid:after { /* Or @extend clearfix */ content: ""; display: table; clear: both; }
 
 [class*='col-'] { float: left; padding: 0 10px; }
@@ -1462,8 +1462,11 @@ a.pagination-item:hover { background-color: #f5f5f5; }
 .grid-pad { padding: 30px 0 30px 30px; }
 .grid-pad [class*='col-']:last-of-type { padding-right: 30px; }
 
-@media only screen and (min-width: 954px) { .wide { width: 960px; margin: 30px 0; max-width: 960px; margin-left: -120px; } }
+@media only screen and (min-width: 954px) { .wide { width: 960px; max-width: 960px; margin-left: -120px; } }
+
 #scrollUp { bottom: 20px; right: 20px; padding: 10px 20px; background-color: #fff; color: #333; border: 1px solid #737373; }
+
+.w100 { width: 100%; }
 
 /* Navigation stuff */
 /*
@@ -1661,6 +1664,7 @@ a.next-link { text-align: center; width: 100%; font-size: 18px; line-height: 2; 
 * page is wrapped in `.page` and is only used on the page layout.
 */
 .page, .post { margin-bottom: 4em; }
+@media only screen and (max-width: 953px) { .page img, .post img { width: 100%; } }
 
 /* Blog post or page title */
 .page-title, .post-title, .post-title a { color: #303030; }

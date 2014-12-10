@@ -8,6 +8,11 @@
 .page,
 .post {
   margin-bottom: 4em;
+  img {
+    @include media-query (sm-max) {
+      width:100%;
+    }
+  }
 }
 
 /* Blog post or page title */

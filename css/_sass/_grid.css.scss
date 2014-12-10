@@ -25,7 +25,7 @@
 $pad: 30px;
 
 .grid {
-  padding: 0 0 $pad 0;
+  padding: 0;
   &:after {
     /* Or @extend clearfix */
     content: "";
@@ -73,12 +73,10 @@ $pad: 30px;
 
 
 // Make post grid be bigger than wrapper
-@include media-query (md) {
-  .wide {
+.wide {
+  @include media-query (md) {
     width: 960px;
-    margin:$pad 0;
     max-width: 960px;
     margin-left: -120px;
-
   }
 }

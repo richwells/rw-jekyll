@@ -572,15 +572,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_posts\/tumblr\/2013-08-15-new-website.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/tumblr\/2013-08-15-new-website.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_posts\/tumblr\/2013-08-25-my-mate-joe-on-the-road-from-edale-up-to-mam-tor.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -788,11 +779,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_posts\/tumblr\/2014-03-20-day-3.html": {
+	"\/_posts\/tumblr\/2014-03-20-day-three-in-cambodia.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/tumblr\/2014-03-20-day-3.html",
+		"inputAbbreviatedPath": "\/_posts\/tumblr\/2014-03-20-day-three-in-cambodia.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -806,15 +797,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_posts\/tumblr\/2014-03-21-give.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/tumblr\/2014-03-21-give.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_posts\/tumblr\/2014-03-23-tonle-batie.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -824,11 +806,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_posts\/tumblr\/2014-03-28-reflections-of-my-time-in-cambodia.html": {
+	"\/_posts\/tumblr\/2014-03-28-reflections-on-my-time-in-cambodia.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/tumblr\/2014-03-28-reflections-of-my-time-in-cambodia.html",
+		"inputAbbreviatedPath": "\/_posts\/tumblr\/2014-03-28-reflections-on-my-time-in-cambodia.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1094,11 +1076,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/blog\/day-3\/index.html": {
+	"\/_site\/blog\/day-three-in-cambodia\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/day-3\/index.html",
+		"inputAbbreviatedPath": "\/_site\/blog\/day-three-in-cambodia\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1135,15 +1117,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/blog\/from-the-sketchbook\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/give\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/give\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1328,15 +1301,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/blog\/new-website\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/new-website\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/blog\/nick-from-motore-cafe-by-the-station-best-coffee\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1409,11 +1373,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/blog\/reflections-of-my-time-in-cambodia\/index.html": {
+	"\/_site\/blog\/reflections-on-my-time-in-cambodia\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/reflections-of-my-time-in-cambodia\/index.html",
+		"inputAbbreviatedPath": "\/_site\/blog\/reflections-on-my-time-in-cambodia\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1913,6 +1877,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/downloads\/christmas-sketches.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 408859,
+		"inputAbbreviatedPath": "\/_site\/downloads\/christmas-sketches.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/christmas-sketches.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/downloads\/coffee-packets.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1931,6 +1906,61 @@
 		"initialSize": 441238,
 		"inputAbbreviatedPath": "\/_site\/downloads\/gf1.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/gf1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/introducing-sophie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 475150,
+		"inputAbbreviatedPath": "\/_site\/downloads\/introducing-sophie.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/introducing-sophie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/les-alpes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 569431,
+		"inputAbbreviatedPath": "\/_site\/downloads\/les-alpes.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/les-alpes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/local-delicacies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 316833,
+		"inputAbbreviatedPath": "\/_site\/downloads\/local-delicacies.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/local-delicacies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/peace-in-the-park.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 483100,
+		"inputAbbreviatedPath": "\/_site\/downloads\/peace-in-the-park.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/peace-in-the-park.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/reflections-on-cambodia.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 418272,
+		"inputAbbreviatedPath": "\/_site\/downloads\/reflections-on-cambodia.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/reflections-on-cambodia.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2001,6 +2031,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/downloads\/sxsw12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124498,
+		"inputAbbreviatedPath": "\/_site\/downloads\/sxsw12.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/sxsw12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/downloads\/team-yoomee.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2019,6 +2060,72 @@
 		"initialSize": 95533,
 		"inputAbbreviatedPath": "\/_site\/downloads\/thank-you.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/thank-you.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/tonle-batie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 606428,
+		"inputAbbreviatedPath": "\/_site\/downloads\/tonle-batie.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/tonle-batie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/tumblr_files\/harry.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59322,
+		"inputAbbreviatedPath": "\/_site\/downloads\/tumblr_files\/harry.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/tumblr_files\/harry.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/tumblr_files\/i-dont-like-asking.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15036,
+		"inputAbbreviatedPath": "\/_site\/downloads\/tumblr_files\/i-dont-like-asking.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/tumblr_files\/i-dont-like-asking.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/tumblr_files\/man-and-dog.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 374366,
+		"inputAbbreviatedPath": "\/_site\/downloads\/tumblr_files\/man-and-dog.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/tumblr_files\/man-and-dog.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/tumblr_files\/potty.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.77464e+06,
+		"inputAbbreviatedPath": "\/_site\/downloads\/tumblr_files\/potty.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/tumblr_files\/potty.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/tumblr_files\/street-kid.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50440,
+		"inputAbbreviatedPath": "\/_site\/downloads\/tumblr_files\/street-kid.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/tumblr_files\/street-kid.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2052,6 +2159,17 @@
 		"initialSize": 91493,
 		"inputAbbreviatedPath": "\/_site\/downloads\/tumblr_files\/test-small.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/tumblr_files\/test-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/tumblr_files\/the-challenges.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27364,
+		"inputAbbreviatedPath": "\/_site\/downloads\/tumblr_files\/the-challenges.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/tumblr_files\/the-challenges.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4573,6 +4691,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_site\/js\/imagesloaded.pkgd.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/imagesloaded.pkgd.min.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/imagesloaded.pkgd.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/_site\/js\/isotope.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -4617,6 +4746,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_site\/js\/min\/scripts-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/min\/scripts-min.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/min\/scripts-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/_site\/js\/modernizr.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -4634,6 +4774,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/js\/picturefill.min.js",
 		"outputAbbreviatedPath": "\/_site\/js\/min\/picturefill.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/scripts.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/scripts.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/scripts-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -4762,6 +4913,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/tag\/baloons\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/baloons\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/tag\/bangkok\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -4879,6 +5039,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/tag\/daddy-daycare\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/daddy-daycare\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/tag\/dan mangan\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -4969,11 +5138,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/tag\/food\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/food\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/tag\/forgiveness\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/tag\/forgiveness\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/tag\/france\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/france\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5167,6 +5354,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/tag\/people-watching\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/people-watching\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/tag\/phnom pehn\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5271,6 +5467,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/tag\/sketchnotes\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/tag\/sophie\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/sophie\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5508,6 +5713,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/css\/_sass\/_general.css.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/_sass\/_general.css.scss",
+		"outputAbbreviatedPath": "\/css\/css\/_general.css.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/css\/_sass\/_grid.css.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -5613,22 +5834,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/_sass\/_typography.css.scss",
 		"outputAbbreviatedPath": "\/css\/css\/_typography.css.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/css\/_sass\/general.css.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/_sass\/general.css.scss",
-		"outputAbbreviatedPath": "\/css\/css\/general.css.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -5879,6 +6084,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/downloads\/christmas-sketches.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 408859,
+		"inputAbbreviatedPath": "\/downloads\/christmas-sketches.jpg",
+		"outputAbbreviatedPath": "\/downloads\/christmas-sketches.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/downloads\/coffee-packets.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5890,6 +6106,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/downloads\/day-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 350618,
+		"inputAbbreviatedPath": "\/downloads\/day-3.jpg",
+		"outputAbbreviatedPath": "\/downloads\/day-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/downloads\/gf1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5897,6 +6124,61 @@
 		"initialSize": 441238,
 		"inputAbbreviatedPath": "\/downloads\/gf1.jpg",
 		"outputAbbreviatedPath": "\/downloads\/gf1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/introducing-sophie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 547310,
+		"inputAbbreviatedPath": "\/downloads\/introducing-sophie.jpg",
+		"outputAbbreviatedPath": "\/downloads\/introducing-sophie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/les-alpes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 569431,
+		"inputAbbreviatedPath": "\/downloads\/les-alpes.jpg",
+		"outputAbbreviatedPath": "\/downloads\/les-alpes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/local-delicacies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 316833,
+		"inputAbbreviatedPath": "\/downloads\/local-delicacies.jpg",
+		"outputAbbreviatedPath": "\/downloads\/local-delicacies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/peace-in-the-park.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 483100,
+		"inputAbbreviatedPath": "\/downloads\/peace-in-the-park.jpg",
+		"outputAbbreviatedPath": "\/downloads\/peace-in-the-park.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/reflections-on-cambodia.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 418272,
+		"inputAbbreviatedPath": "\/downloads\/reflections-on-cambodia.jpg",
+		"outputAbbreviatedPath": "\/downloads\/reflections-on-cambodia.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5967,6 +6249,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/downloads\/sxsw12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124498,
+		"inputAbbreviatedPath": "\/downloads\/sxsw12.jpg",
+		"outputAbbreviatedPath": "\/downloads\/sxsw12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/downloads\/team-yoomee.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -5985,6 +6278,72 @@
 		"initialSize": 95533,
 		"inputAbbreviatedPath": "\/downloads\/thank-you.jpg",
 		"outputAbbreviatedPath": "\/downloads\/thank-you.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/tonle-batie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 618633,
+		"inputAbbreviatedPath": "\/downloads\/tonle-batie.jpg",
+		"outputAbbreviatedPath": "\/downloads\/tonle-batie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/tumblr_files\/harry.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59322,
+		"inputAbbreviatedPath": "\/downloads\/tumblr_files\/harry.jpg",
+		"outputAbbreviatedPath": "\/downloads\/tumblr_files\/harry.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/tumblr_files\/i-dont-like-asking.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15036,
+		"inputAbbreviatedPath": "\/downloads\/tumblr_files\/i-dont-like-asking.jpg",
+		"outputAbbreviatedPath": "\/downloads\/tumblr_files\/i-dont-like-asking.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/tumblr_files\/man-and-dog.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 374366,
+		"inputAbbreviatedPath": "\/downloads\/tumblr_files\/man-and-dog.jpg",
+		"outputAbbreviatedPath": "\/downloads\/tumblr_files\/man-and-dog.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/tumblr_files\/potty.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.77464e+06,
+		"inputAbbreviatedPath": "\/downloads\/tumblr_files\/potty.jpg",
+		"outputAbbreviatedPath": "\/downloads\/tumblr_files\/potty.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/tumblr_files\/street-kid.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50440,
+		"inputAbbreviatedPath": "\/downloads\/tumblr_files\/street-kid.jpg",
+		"outputAbbreviatedPath": "\/downloads\/tumblr_files\/street-kid.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6018,6 +6377,17 @@
 		"initialSize": 91493,
 		"inputAbbreviatedPath": "\/downloads\/tumblr_files\/test-small.jpg",
 		"outputAbbreviatedPath": "\/downloads\/tumblr_files\/test-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/tumblr_files\/the-challenges.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27364,
+		"inputAbbreviatedPath": "\/downloads\/tumblr_files\/the-challenges.jpg",
+		"outputAbbreviatedPath": "\/downloads\/tumblr_files\/the-challenges.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8534,6 +8904,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/fitvids.js",
 		"outputAbbreviatedPath": "\/js\/min\/fitvids-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/imagesloaded.pkgd.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/imagesloaded.pkgd.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/imagesloaded.pkgd.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

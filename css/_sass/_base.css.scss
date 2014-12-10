@@ -64,9 +64,12 @@ h4, h5, h6 {
 }
 
 /* Body text */
-p {
+p, img, .fitvids {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 20px;
+  @include media-query (md) {
+    margin-bottom: 30px;
+  }
 }
 
 strong {
@@ -190,7 +193,6 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
   border-radius: 5px;
 }
 

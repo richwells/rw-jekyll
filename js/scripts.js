@@ -4,13 +4,12 @@ $(document).ready(function() {
   	 $(".fitvids").fitVids();
 
 
-    var $container = $('#isotope');
-
-    $container.isotope({
-      itemSelector: '.col-related',
-      layoutMode: 'masonry'
-    });
-
+     var $container = $('#container').imagesLoaded( function() {
+       $container.isotope({
+         itemSelector: '.col-related',
+         layoutMode: 'masonry'
+       });
+     });
 
     //	Scroll to top link
     $.scrollUp();

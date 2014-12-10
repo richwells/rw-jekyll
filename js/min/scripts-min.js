@@ -1,1 +1,1 @@
-$(document).ready(function(){$(".fitvid").fitVids();var o=$("#isotope");o.isotope({itemSelector:".col-related",layoutMode:"masonry"}),$.scrollUp(),$("#scrollUp").html("<i class='fa fa-angle-up'></i>")});
+$(document).ready(function(){$(".fitvids").fitVids();var o=$("#container").imagesLoaded(function(){o.isotope({itemSelector:".col-related",layoutMode:"masonry"})});$.scrollUp(),$("#scrollUp").html("<i class='fa fa-angle-up'></i>")});

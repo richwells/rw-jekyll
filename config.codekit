@@ -101,6 +101,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_posts\/2014-10-15-blessed-are-those-who-mourn.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/2014-10-15-blessed-are-those-who-mourn.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_posts\/2014-11-18-christmas-film.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1004,6 +1013,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/blog\/blessed-are-those-who-mourn\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/blessed-are-those-who-mourn\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/blog\/buggy-longboarding\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1661,6 +1679,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/css\/rw.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/css\/rw.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/css\/rw.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1695,6 +1722,28 @@
 		"initialSize": 73144,
 		"inputAbbreviatedPath": "\/_site\/downloads\/better-google-tasks.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/better-google-tasks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/blessed-are-those-who-mourn-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 324013,
+		"inputAbbreviatedPath": "\/_site\/downloads\/blessed-are-those-who-mourn-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/blessed-are-those-who-mourn-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/blessed-are-those-who-mourn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 426415,
+		"inputAbbreviatedPath": "\/_site\/downloads\/blessed-are-those-who-mourn.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/blessed-are-those-who-mourn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4447,17 +4496,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/js\/min\/scripts-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/js\/min\/scripts-min.js",
-		"outputAbbreviatedPath": "\/_site\/js\/min\/min\/scripts-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/_site\/js\/modernizr.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -4475,17 +4513,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/js\/picturefill.min.js",
 		"outputAbbreviatedPath": "\/_site\/js\/min\/picturefill.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/js\/scripts.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/js\/scripts.js",
-		"outputAbbreviatedPath": "\/_site\/js\/min\/scripts-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -4799,6 +4826,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/tag\/exploring\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/tag\/faith\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/faith\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5522,6 +5558,28 @@
 		"initialSize": 73144,
 		"inputAbbreviatedPath": "\/downloads\/better-google-tasks.jpg",
 		"outputAbbreviatedPath": "\/downloads\/better-google-tasks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/blessed-are-those-who-mourn-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 324013,
+		"inputAbbreviatedPath": "\/downloads\/blessed-are-those-who-mourn-2.jpg",
+		"outputAbbreviatedPath": "\/downloads\/blessed-are-those-who-mourn-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/blessed-are-those-who-mourn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 426415,
+		"inputAbbreviatedPath": "\/downloads\/blessed-are-those-who-mourn.jpg",
+		"outputAbbreviatedPath": "\/downloads\/blessed-are-those-who-mourn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

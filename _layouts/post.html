@@ -13,8 +13,8 @@ layout: default
 {% if content and page.related %}
 <h2>Related Posts</h2>
 <ul>
-  {% for post in site.posts %}
-  {% if page.related contains post.tag %}
+  {% for post in site.posts limit:6 %}
+  {% if page.related contains post.title %}
   <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endif %}
   {% endfor %}

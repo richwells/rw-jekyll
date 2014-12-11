@@ -1698,8 +1698,8 @@ a.next-link { text-align: center; width: 100%; font-size: 18px; line-height: 2; 
 .col-related h3 { margin: 0; font-size: 20px; }
 .col-related small { color: #999; float: left; width: 100%; margin: -1px 0 0; font-size: 16px; }
 .col-related a:hover { text-decoration: none; }
-.col-related a img.post-img { position: relative; margin-bottom: 13px; }
-.col-related a img.post-img:hover { opacity: 0.9; }
+.col-related a .post-img-wrap img { position: relative; margin-bottom: 13px; }
+.col-related a .post-img-wrap img:hover { opacity: 0.9; }
 .col-related .post-img-wrap { display: block; width: 100%; float: left; }
 
 /*# sourceMappingURL=rw.css.map */

@@ -103,14 +103,15 @@
     &:hover {
       text-decoration:none;
     }
-    img.post-img {
-      position:relative;
-      margin-bottom:13px;
-      &:hover {
-        opacity:0.9;
+    .post-img-wrap {
+      img{
+        position:relative;
+        margin-bottom:13px;
+        &:hover {
+          opacity:0.9;
+        }
       }
     }
-
   }
   .post-img-wrap {
     display:block;

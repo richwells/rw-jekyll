@@ -50,6 +50,7 @@
         "iframe[src*='www.youtube.com']",
         "iframe[src*='www.kickstarter.com']",
         "iframe[src*='slideshare.net']",
+        "iframe[src*='instagram.com']",
         "object",
         "embed"
       ];

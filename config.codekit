@@ -92,6 +92,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_layouts\/storytime.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/storytime.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_layouts\/tag_index.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -617,20 +626,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_posts\/tumblr\/2013-11-20-i-saw-this-cheeky-chap-at-an-alpaca-farm-outside.html": {
+	"\/_posts\/tumblr\/2013-11-20-gerard-the-goat.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/tumblr\/2013-11-20-i-saw-this-cheeky-chap-at-an-alpaca-farm-outside.html",
+		"inputAbbreviatedPath": "\/_posts\/tumblr\/2013-11-20-gerard-the-goat.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_posts\/tumblr\/2013-12-01-the-other-day-my-wife-bryony-spoke-at-our-church.html": {
+	"\/_posts\/tumblr\/2013-12-01-joseph.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/tumblr\/2013-12-01-the-other-day-my-wife-bryony-spoke-at-our-church.html",
+		"inputAbbreviatedPath": "\/_posts\/tumblr\/2013-12-01-joseph.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -856,6 +865,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_posts\/tumblr\/2014-07-25-stretch-o-clock.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_posts\/tumblr\/2014-08-09-festival-of-code.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/tumblr\/2014-08-09-festival-of-code.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1103,6 +1121,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/blog\/festival-of-code\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/festival-of-code\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/blog\/fog\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1117,6 +1144,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/blog\/from-the-sketchbook\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/gerard-the-goat\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/gerard-the-goat\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1153,15 +1189,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/blog\/holiday-sketches\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/i-saw-this-cheeky-chap-at-an-alpaca-farm-outside\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/i-saw-this-cheeky-chap-at-an-alpaca-farm-outside\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1544,15 +1571,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/blog\/the-other-day-my-wife-bryony-spoke-at-our-church\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/the-other-day-my-wife-bryony-spoke-at-our-church\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/blog\/the-sheffield-tap-probably-the-best-railway\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1719,6 +1737,17 @@
 		"initialSize": 378730,
 		"inputAbbreviatedPath": "\/_site\/downloads\/cambodia-shacks.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/cambodia-shacks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/cambodian-artwork-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 440740,
+		"inputAbbreviatedPath": "\/_site\/downloads\/cambodian-artwork-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/cambodian-artwork-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1910,6 +1939,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/downloads\/faith-hope-love-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 283666,
+		"inputAbbreviatedPath": "\/_site\/downloads\/faith-hope-love-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/faith-hope-love-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/faith-hope-love-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165336,
+		"inputAbbreviatedPath": "\/_site\/downloads\/faith-hope-love-3.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/faith-hope-love-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/faith-hope-love.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 188717,
+		"inputAbbreviatedPath": "\/_site\/downloads\/faith-hope-love.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/faith-hope-love.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/downloads\/gf1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1917,6 +1979,17 @@
 		"initialSize": 441238,
 		"inputAbbreviatedPath": "\/_site\/downloads\/gf1.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/gf1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/golddigger.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46568,
+		"inputAbbreviatedPath": "\/_site\/downloads\/golddigger.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/golddigger.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1954,6 +2027,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/downloads\/man-and-dog.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73278,
+		"inputAbbreviatedPath": "\/_site\/downloads\/man-and-dog.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/man-and-dog.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/downloads\/peace-in-the-park.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1976,6 +2060,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/downloads\/phnom-penh.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 253670,
+		"inputAbbreviatedPath": "\/_site\/downloads\/phnom-penh.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/phnom-penh.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/downloads\/reflections-on-cambodia.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1983,6 +2078,17 @@
 		"initialSize": 418272,
 		"inputAbbreviatedPath": "\/_site\/downloads\/reflections-on-cambodia.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/reflections-on-cambodia.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/sheffield-mencap.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 384748,
+		"inputAbbreviatedPath": "\/_site\/downloads\/sheffield-mencap.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/sheffield-mencap.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2027,6 +2133,182 @@
 		"initialSize": 142826,
 		"inputAbbreviatedPath": "\/_site\/downloads\/sketches-of-spain.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/sketches-of-spain.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/society6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63247,
+		"inputAbbreviatedPath": "\/_site\/downloads\/society6.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/society6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/storytime\/1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63138,
+		"inputAbbreviatedPath": "\/_site\/downloads\/storytime\/1.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/storytime\/1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/storytime\/10.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82171,
+		"inputAbbreviatedPath": "\/_site\/downloads\/storytime\/10.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/storytime\/10.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/storytime\/11.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45403,
+		"inputAbbreviatedPath": "\/_site\/downloads\/storytime\/11.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/storytime\/11.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/storytime\/12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39757,
+		"inputAbbreviatedPath": "\/_site\/downloads\/storytime\/12.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/storytime\/12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/storytime\/13.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56206,
+		"inputAbbreviatedPath": "\/_site\/downloads\/storytime\/13.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/storytime\/13.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/storytime\/14.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49814,
+		"inputAbbreviatedPath": "\/_site\/downloads\/storytime\/14.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/storytime\/14.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/storytime\/15.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49877,
+		"inputAbbreviatedPath": "\/_site\/downloads\/storytime\/15.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/storytime\/15.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/storytime\/2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60528,
+		"inputAbbreviatedPath": "\/_site\/downloads\/storytime\/2.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/storytime\/2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/storytime\/3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39046,
+		"inputAbbreviatedPath": "\/_site\/downloads\/storytime\/3.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/storytime\/3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/storytime\/4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54288,
+		"inputAbbreviatedPath": "\/_site\/downloads\/storytime\/4.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/storytime\/4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/storytime\/5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53721,
+		"inputAbbreviatedPath": "\/_site\/downloads\/storytime\/5.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/storytime\/5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/storytime\/6.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96129,
+		"inputAbbreviatedPath": "\/_site\/downloads\/storytime\/6.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/storytime\/6.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/storytime\/7.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73247,
+		"inputAbbreviatedPath": "\/_site\/downloads\/storytime\/7.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/storytime\/7.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/storytime\/8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67240,
+		"inputAbbreviatedPath": "\/_site\/downloads\/storytime\/8.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/storytime\/8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/storytime\/9.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31744,
+		"inputAbbreviatedPath": "\/_site\/downloads\/storytime\/9.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/storytime\/9.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4484,6 +4766,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/downloads\/wooden-kitchen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 331461,
+		"inputAbbreviatedPath": "\/_site\/downloads\/wooden-kitchen.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/wooden-kitchen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/100-tn.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4919,6 +5212,159 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/storytime\/1.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/1.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/storytime\/10.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/10.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/storytime\/11.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/11.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/storytime\/12.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/12.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/storytime\/13.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/13.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/storytime\/14.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/14.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/storytime\/15.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/15.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/storytime\/2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/storytime\/3.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/3.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/storytime\/4.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/4.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/storytime\/5.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/5.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/storytime\/6.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/6.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/storytime\/7.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/7.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/storytime\/8.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/8.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/storytime\/9.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/9.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/storytime\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/storytime\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/tag\/100daybiblechallenge\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/100daybiblechallenge\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/tag\/art\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -4937,11 +5383,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/tag\/Austin\/index.html": {
+	"\/_site\/tag\/austin\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/tag\/Austin\/index.html",
+		"inputAbbreviatedPath": "\/_site\/tag\/austin\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -4951,6 +5397,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/tag\/baloons\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/tag\/bible\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/bible\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5027,6 +5482,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/tag\/craft\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/craft\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/tag\/creativity\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5050,15 +5514,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/tag\/cycling\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/tag\/daddy daycare\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/tag\/daddy daycare\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5158,6 +5613,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/tag\/faith\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/tag\/Festival-of-code\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/Festival-of-code\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5315,6 +5779,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/tag\/level-collective\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/level-collective\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/tag\/longboarding\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5333,6 +5806,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/tag\/making-things\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/making-things\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/tag\/mallorca\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5342,11 +5824,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/tag\/man tools\/index.html": {
+	"\/_site\/tag\/man-tools\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/tag\/man tools\/index.html",
+		"inputAbbreviatedPath": "\/_site\/tag\/man-tools\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5374,6 +5856,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/tag\/osx\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/tag\/peak-district\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/peak-district\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5549,11 +6040,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/tag\/toy kitchen\/index.html": {
+	"\/_site\/tag\/toy-kitchen\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/tag\/toy kitchen\/index.html",
+		"inputAbbreviatedPath": "\/_site\/tag\/toy-kitchen\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5572,6 +6063,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/tag\/travels\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/tag\/tshirts\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/tshirts\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5635,6 +6135,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/tag\/yoomee\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/tag\/yrs\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/yrs\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5833,6 +6342,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/css\/_sass\/_storytime.css.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/_sass\/_storytime.css.scss",
+		"outputAbbreviatedPath": "\/css\/css\/_storytime.css.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/css\/_sass\/_syntax.css.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -5950,6 +6475,17 @@
 		"initialSize": 378730,
 		"inputAbbreviatedPath": "\/downloads\/cambodia-shacks.jpg",
 		"outputAbbreviatedPath": "\/downloads\/cambodia-shacks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/cambodian-artwork-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 440740,
+		"inputAbbreviatedPath": "\/downloads\/cambodian-artwork-2.jpg",
+		"outputAbbreviatedPath": "\/downloads\/cambodian-artwork-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6141,6 +6677,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/downloads\/faith-hope-love-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 283666,
+		"inputAbbreviatedPath": "\/downloads\/faith-hope-love-2.jpg",
+		"outputAbbreviatedPath": "\/downloads\/faith-hope-love-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/faith-hope-love-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165336,
+		"inputAbbreviatedPath": "\/downloads\/faith-hope-love-3.jpg",
+		"outputAbbreviatedPath": "\/downloads\/faith-hope-love-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/faith-hope-love.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 190326,
+		"inputAbbreviatedPath": "\/downloads\/faith-hope-love.jpg",
+		"outputAbbreviatedPath": "\/downloads\/faith-hope-love.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/downloads\/gf1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6148,6 +6717,17 @@
 		"initialSize": 441238,
 		"inputAbbreviatedPath": "\/downloads\/gf1.jpg",
 		"outputAbbreviatedPath": "\/downloads\/gf1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/golddigger.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53194,
+		"inputAbbreviatedPath": "\/downloads\/golddigger.jpg",
+		"outputAbbreviatedPath": "\/downloads\/golddigger.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6181,6 +6761,17 @@
 		"initialSize": 316833,
 		"inputAbbreviatedPath": "\/downloads\/local-delicacies.jpg",
 		"outputAbbreviatedPath": "\/downloads\/local-delicacies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/man-and-dog.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73278,
+		"inputAbbreviatedPath": "\/downloads\/man-and-dog.jpg",
+		"outputAbbreviatedPath": "\/downloads\/man-and-dog.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6229,6 +6820,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/downloads\/sheffield-mencap.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 384748,
+		"inputAbbreviatedPath": "\/downloads\/sheffield-mencap.jpg",
+		"outputAbbreviatedPath": "\/downloads\/sheffield-mencap.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/downloads\/sketches-of-spain-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6269,6 +6871,182 @@
 		"initialSize": 142826,
 		"inputAbbreviatedPath": "\/downloads\/sketches-of-spain.jpg",
 		"outputAbbreviatedPath": "\/downloads\/sketches-of-spain.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/society6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63247,
+		"inputAbbreviatedPath": "\/downloads\/society6.jpg",
+		"outputAbbreviatedPath": "\/downloads\/society6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/storytime\/1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63138,
+		"inputAbbreviatedPath": "\/downloads\/storytime\/1.png",
+		"outputAbbreviatedPath": "\/downloads\/storytime\/1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/storytime\/10.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63599,
+		"inputAbbreviatedPath": "\/downloads\/storytime\/10.png",
+		"outputAbbreviatedPath": "\/downloads\/storytime\/10.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/storytime\/11.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45403,
+		"inputAbbreviatedPath": "\/downloads\/storytime\/11.png",
+		"outputAbbreviatedPath": "\/downloads\/storytime\/11.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/storytime\/12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39757,
+		"inputAbbreviatedPath": "\/downloads\/storytime\/12.png",
+		"outputAbbreviatedPath": "\/downloads\/storytime\/12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/storytime\/13.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56206,
+		"inputAbbreviatedPath": "\/downloads\/storytime\/13.png",
+		"outputAbbreviatedPath": "\/downloads\/storytime\/13.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/storytime\/14.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49814,
+		"inputAbbreviatedPath": "\/downloads\/storytime\/14.png",
+		"outputAbbreviatedPath": "\/downloads\/storytime\/14.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/storytime\/15.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49877,
+		"inputAbbreviatedPath": "\/downloads\/storytime\/15.png",
+		"outputAbbreviatedPath": "\/downloads\/storytime\/15.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/storytime\/2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60528,
+		"inputAbbreviatedPath": "\/downloads\/storytime\/2.png",
+		"outputAbbreviatedPath": "\/downloads\/storytime\/2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/storytime\/3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39046,
+		"inputAbbreviatedPath": "\/downloads\/storytime\/3.png",
+		"outputAbbreviatedPath": "\/downloads\/storytime\/3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/storytime\/4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48677,
+		"inputAbbreviatedPath": "\/downloads\/storytime\/4.png",
+		"outputAbbreviatedPath": "\/downloads\/storytime\/4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/storytime\/5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/downloads\/storytime\/5.png",
+		"outputAbbreviatedPath": "\/downloads\/storytime\/5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/storytime\/6.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66069,
+		"inputAbbreviatedPath": "\/downloads\/storytime\/6.png",
+		"outputAbbreviatedPath": "\/downloads\/storytime\/6.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/storytime\/7.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85578,
+		"inputAbbreviatedPath": "\/downloads\/storytime\/7.png",
+		"outputAbbreviatedPath": "\/downloads\/storytime\/7.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/storytime\/8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67240,
+		"inputAbbreviatedPath": "\/downloads\/storytime\/8.png",
+		"outputAbbreviatedPath": "\/downloads\/storytime\/8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/storytime\/9.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58880,
+		"inputAbbreviatedPath": "\/downloads\/storytime\/9.png",
+		"outputAbbreviatedPath": "\/downloads\/storytime\/9.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8726,6 +9504,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/downloads\/wooden-kitchen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 157310,
+		"inputAbbreviatedPath": "\/downloads\/wooden-kitchen.jpg",
+		"outputAbbreviatedPath": "\/downloads\/wooden-kitchen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/100-tn.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -9086,6 +9875,150 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/README.md",
 		"outputAbbreviatedPath": "\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/1.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/1.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/10.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/10.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/11.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/11.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/12.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/12.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/13.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/13.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/14.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/14.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/15.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/15.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/3.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/3.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/4.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/4.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/5.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/5.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/6.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/6.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/7.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/7.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/8.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/8.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/9.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/9.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/storytime\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/storytime\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},

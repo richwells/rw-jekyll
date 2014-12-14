@@ -1666,6 +1666,8 @@ a.next-link { text-align: center; width: 100%; font-size: 18px; line-height: 2; 
 .page, .post { margin-bottom: 4em; }
 @media only screen and (max-width: 953px) { .page img, .post img { width: 100%; } }
 
+.post-preview img { width: 100%; }
+
 /* Blog post or page title */
 .page-title, .post-title, .post-title a { color: #303030; }
 
@@ -1701,5 +1703,11 @@ a.next-link { text-align: center; width: 100%; font-size: 18px; line-height: 2; 
 .col-related a .post-img-wrap img { position: relative; margin-bottom: 13px; }
 .col-related a .post-img-wrap img:hover { opacity: 0.9; }
 .col-related .post-img-wrap { display: block; width: 100%; float: left; }
+
+.storytime { background-color: #fff; padding: 20px; }
+
+.storytime-wrap { margin: 0 auto; padding: 100px; display: table; }
+
+.storytime-inner { display: table-cell; text-align: center; vertical-align: middle; }
 
 /*# sourceMappingURL=rw.css.map */

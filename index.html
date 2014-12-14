@@ -20,10 +20,14 @@ body-class: blog
         </a>
       </h1>
       <span class="post-date">{{ post.date | date_to_string }}</span>
-      {% if post.img %}
+      {% if post.video %}
+        {{ post.video }}
+      {% else %}
+        {% if post.img %}
         <a href="{{ site.baseurl }}{{ post.url }}">
           <img src="{{ site.baseurl }}/downloads/{{post.img}}" alt="{{ post.title }}" class="post-img"/>
         </a>
+        {% endif %}      
       {% endif %}
       <p>
         {% if post.intro %}

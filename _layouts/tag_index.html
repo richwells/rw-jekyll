@@ -1,8 +1,17 @@
 ---
 layout: default
+body-class: 'blog'
 ---
 
+
+<div class="tag-{{ page.tag }}">
+  {% include tag-links.html %}
+</div>
+
 <h2 class="post_title">{{page.title}}</h2>
+
+
+{% comment %}
 <ul>
   {% for post in site.posts %}
   {% for tag in post.tags %}
@@ -20,3 +29,24 @@ layout: default
   {% endfor %}
   {% endfor %}
 </ul>
+{% endcomment %}
+
+<div class="related-strip" id="container">
+  <div id="isotope" class="grid">
+    {% for post in site.posts %}
+    {% for tag in post.tags %}
+    {% if tag == page.tag %}
+    <div class="col-1-3 col-related">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <span class="post-img-wrap">
+          <img src="http://ir0.mobify.com/500/http://richwells.github.io{{ site.baseurl }}/downloads/{{post.img}}" alt="{{ post.title }}">
+        </span>
+        <h3 class="post-title">{{ post.title }}</h3>
+        <small>{{ post.date | date_to_string }}</small>
+      </a>
+    </div>
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+  </div>
+</div>

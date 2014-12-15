@@ -57,7 +57,7 @@ $pad: 30px;
 // remove padding for mobile
 
 [class*='col-'] {
-  @include media-query (sm-max) {
+  @include media-query (xs-max) {
     width:100%;
     padding:0;
   }

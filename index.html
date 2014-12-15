@@ -2,14 +2,19 @@
 layout: default
 body-class: blog
 ---
+<div class="tag-everything">
+  {% include tag-links.html %}  
+</div>
 
-{%comment%}
- {% for tag in site.tags %}
-    <a href="/tag/{{ tag | first | slugize }}/">
-        {{ tag | first }}
-    </a>
-{% endfor %}
-{%endcomment%}
+
+{% comment %}
+   {% for tag in site.tags %}
+      <a href="{{ site.baseurl }}/tag/{{ tag | first | slugize }}/">
+          {{ tag | first }}
+      </a>
+  {% endfor %}
+{% endcomment %}
+
 <div class="container">
   <div class="posts">
     {% for post in paginator.posts %}
@@ -27,7 +32,7 @@ body-class: blog
         <a href="{{ site.baseurl }}{{ post.url }}">
           <img src="{{ site.baseurl }}/downloads/{{post.img}}" alt="{{ post.title }}" class="post-img"/>
         </a>
-        {% endif %}      
+        {% endif %}
       {% endif %}
       <p>
         {% if post.intro %}

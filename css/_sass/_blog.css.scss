@@ -20,6 +20,12 @@
   }
 }
 
+.all-posts-link {
+  font-size: 19px;
+  border-bottom: 1px solid #000;
+  margin: 7px 0 40px 40px;
+  float: left;
+}
 
 /* Blog post or page title */
 .page-title,
@@ -30,6 +36,7 @@
 .page-title,
 .post-title {
   margin-top: 0;
+  clear:both;
 }
 
 /* Meta data line below post title */
@@ -109,14 +116,18 @@
     &:hover {
       text-decoration:none;
     }
-    .post-img-wrap {
-      img{
-        position:relative;
-        margin-bottom:13px;
-        &:hover {
-          opacity:0.9;
-        }
+  }
+  .post-img-wrap {
+    margin-bottom:13px;
+    img {
+      position:relative;
+      margin-bottom:0px;
+      &:hover {
+        opacity:0.9;
       }
+    }
+    .fitvids {
+      margin: 0;
     }
   }
   .post-img-wrap {

@@ -8,27 +8,57 @@ ul.blog-tag-list {
     float:left;
     margin:0;
     padding:0;
-    a {
-      display: block;
-      float: left;
-      background: #f5f5f5;
-      padding: 3px 9px;
-      margin: 0 5px 10px;
-    }
   }
-
+  a {
+    display: block;
+    float: left;
+    background: #fff;
+    padding: 3px 9px;
+    margin: 0 5px 10px;
+  }
 }
-.tag-photos li a.tag-link-photos,
-.tag-illustration li a.tag-link-illustrations,
-.tag-work li a.tag-link-work,
-.tag-thoughts li a.tag-link-thoughts,
-.tag-sketches li a.tag-link-sketches,
-.tag-yoomee li a.tag-link-yoomee,
-.tag-video li a.tag-link-video,
-.tag-everything li a.tag-link-everything,
-.tag-tfbloggers li a.tag-link-tfbloggers,
-.tag-inspiration li a.tag-link-inspiration
+.blog-index ul.blog-tag-list a {
+  background:#f5f5f5;
+}
+.tag-photos a.tag-link-photos,
+.tag-illustration a.tag-link-illustrations,
+.tag-work a.tag-link-work,
+.tag-thoughts a.tag-link-thoughts,
+.tag-sketches a.tag-link-sketches,
+.tag-yoomee a.tag-link-yoomee,
+.tag-video a.tag-link-video,
+.blog-index .tag-everything a.tag-link-everything,
+.tag-tfbloggers a.tag-link-tfbloggers,
+.tag-ux a.tag-link-ux,
+.tag-inspiration a.tag-link-inspiration
 {
   background:#000;
   color:#fff;
+}
+.tag-strip {
+  background: #fff;
+}
+body.sketches {
+  background:#ffb6b6;
+}
+body.photos {
+  background:#C7ECF7;
+}
+body.work {
+  background:#E0B394;
+}
+body.inspiration {
+  background:#a9b6ba;
+}
+body.yoomee {
+  background:#FC986D;
+}
+body.video {
+  background:#6dff99;
+}
+body.tfbloggers {
+  background:#79c9d6;
+}
+body.ux {
+  background:#BFABF9;
 }

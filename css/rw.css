@@ -1666,6 +1666,9 @@ a.next-link { text-align: center; width: 100%; font-size: 18px; line-height: 2; 
 .page, .post { margin-bottom: 4em; }
 @media only screen and (max-width: 953px) { .page img, .post img { width: 100%; } }
 
+/* hide certain posts on main blog list */
+.blog-index .hide-post { display: none; }
+
 .post-preview img { width: 100%; }
 
 .all-posts-link { font-size: 19px; border-bottom: 1px solid #000; margin: 7px 0 40px 40px; float: left; }

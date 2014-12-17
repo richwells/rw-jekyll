@@ -14,6 +14,10 @@
     }
   }
 }
+/* hide certain posts on main blog list */
+.blog-index .hide-post {
+  display:none;  
+}
 .post-preview {
   img {
     width:100%;

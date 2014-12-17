@@ -44,7 +44,7 @@
     background:#fff;
     color:#000;
   }
-  @include media-query (sm-max) {
+  @include media-query (xs-max) {
     .masthead-title {
       display:none;
     }

@@ -301,7 +301,7 @@ tbody tr:nth-child(odd) th {
 }
 .layout-reverse .sidebar-toggle {
   left: auto;
-  right: 1rem;
+  right: 15px;
 }
 
 .layout-reverse #sidebar-checkbox:checked ~ .sidebar,
@@ -383,43 +383,25 @@ tbody tr:nth-child(odd) th {
 /* Style the `label` that we use to target the `.sidebar-checkbox` */
 .sidebar-toggle {
   position: absolute;
-  top:  1rem;
-  left: 1rem;
+  top: 15px;
+  left: 15px;
   display: block;
-  width: 2.2rem;
-  padding: .5rem .65rem;
-  color: #505050;
-  border-radius: 4px;
+  padding: 5px 13px;
+  color: #000;
   cursor: pointer;
-}
-.sidebar-toggle:before {
-  display: block;
-  content: "";
-  width: 100%;
-  padding-bottom: .125rem;
-  border-top: .375rem double;
-  border-bottom: .125rem solid;
-
-  /* Make the border inside the box */
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
+  border: none;
+  font-size: 20px;
 }
 
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: #fff;
-  background-color: #505050;
+  background-color: #000;
 }
 
 @media (min-width: 30.1em) {
   .sidebar-toggle {
     position: fixed;
     width: 2.25rem;
-  }
-  .sidebar-toggle:before {
-    padding-bottom: .15rem;
-    border-top-width: .45rem;
-    border-bottom-width: .15rem;
   }
 }

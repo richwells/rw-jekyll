@@ -18,11 +18,11 @@
   }
 } */
 .about-header {
-  background: #202020 url(../img/about-header-xs.jpg) no-repeat center 70px;
-  height: 280px;
+  background: #202020 url(../img/about-header-xs.jpg) no-repeat center top;
+  height: 220px;
   @include media-query (xs) {
       background-image: url(../img/about-header-sm.jpg);
-      height: 450px;
+      height: 380px;
   }
   @include media-query (sm) {
     background: #B99E89 url(../img/about-header-md.jpg) no-repeat center 0px;
@@ -37,6 +37,22 @@
     height:880px;
   }
 }
+
+/* Make about hambuger nav have a white bg*/
+.about {
+  .sidebar-toggle {
+    background:#fff;
+    color:#000;
+  }
+  @include media-query (sm-max) {
+    .masthead-title {
+      display:none;
+    }
+  }
+}
+
+
+
 .hello-wrap {
 	float: left;
 	width: 100%;

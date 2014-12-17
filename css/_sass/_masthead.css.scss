@@ -9,9 +9,9 @@
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 20px;
   @include media-query (sm) {
-    margin-bottom: 3rem;
+    margin-bottom: 60px;
   }
 }
 .masthead-title {
@@ -100,7 +100,7 @@ ul.header-nav {
 .about .nav-about, .blog .nav-blog {
   font-weight:bold;
 }
-.nav-fixed {
+.nav-absolute {
   .masthead {
     position:absolute;
     top:0px;
@@ -109,7 +109,7 @@ ul.header-nav {
     float:left;
   }
 }
-.inverted {
+.nav-inverted {
   .rw-logo a {
     background-image: url(../img/rw-logo-white.png);
   }
@@ -118,5 +118,8 @@ ul.header-nav {
   }
   ul.header-nav li a {
     color:#fff
+  }
+  .sidebar-toggle {
+    color:#fff;
   }
 }

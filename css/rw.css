@@ -136,7 +136,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th { background-color: #f9f9
 */
 .layout-reverse .sidebar { left: auto; right: -14rem; }
 
-.layout-reverse .sidebar-toggle { left: auto; right: 1rem; }
+.layout-reverse .sidebar-toggle { left: auto; right: 15px; }
 
 .layout-reverse #sidebar-checkbox:checked ~ .sidebar, .layout-reverse #sidebar-checkbox:checked ~ .wrap, .layout-reverse #sidebar-checkbox:checked ~ .sidebar-toggle { -webkit-transform: translateX(-14rem); -ms-transform: translateX(-14rem); transform: translateX(-14rem); }
 
@@ -179,14 +179,11 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th { background-color: #f9f9
 .sidebar-checkbox { display: none; }
 
 /* Style the `label` that we use to target the `.sidebar-checkbox` */
-.sidebar-toggle { position: absolute; top: 1rem; left: 1rem; display: block; width: 2.2rem; padding: .5rem .65rem; color: #505050; border-radius: 4px; cursor: pointer; }
+.sidebar-toggle { position: absolute; top: 15px; left: 15px; display: block; padding: 5px 13px; color: #000; cursor: pointer; border: none; font-size: 20px; }
 
-.sidebar-toggle:before { display: block; content: ""; width: 100%; padding-bottom: .125rem; border-top: .375rem double; border-bottom: .125rem solid; /* Make the border inside the box */ -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+.sidebar-toggle:active, #sidebar-checkbox:checked ~ .sidebar-toggle { color: #fff; background-color: #000; }
 
-.sidebar-toggle:active, #sidebar-checkbox:checked ~ .sidebar-toggle { color: #fff; background-color: #505050; }
-
-@media (min-width: 30.1em) { .sidebar-toggle { position: fixed; width: 2.25rem; }
-  .sidebar-toggle:before { padding-bottom: .15rem; border-top-width: .45rem; border-bottom-width: .15rem; } }
+@media (min-width: 30.1em) { .sidebar-toggle { position: fixed; width: 2.25rem; } }
 /*!
  *  Font Awesome 4.2.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License
@@ -1474,8 +1471,8 @@ a.pagination-item:hover { background-color: #f5f5f5; }
 *
 * Super small header above the content for site name and short description.
 */
-.masthead { padding-top: 1rem; padding-bottom: 1rem; margin-bottom: 1rem; }
-@media only screen and (min-width: 769px) { .masthead { margin-bottom: 3rem; } }
+.masthead { padding-top: 1rem; padding-bottom: 1rem; margin-bottom: 20px; }
+@media only screen and (min-width: 769px) { .masthead { margin-bottom: 60px; } }
 
 .masthead-title { margin-top: 0; margin-bottom: 0; color: #505050; }
 
@@ -1506,11 +1503,12 @@ ul.header-nav li a i { font-size: 22px; line-height: 30px; }
 
 .about .nav-about, .blog .nav-blog { font-weight: bold; }
 
-.nav-fixed .masthead { position: absolute; top: 0px; left: 0px; width: 100%; float: left; }
+.nav-absolute .masthead { position: absolute; top: 0px; left: 0px; width: 100%; float: left; }
 
-.inverted .rw-logo a { background-image: url(../img/rw-logo-white.png); }
-.inverted .sidebar-toggle:before { color: #fff; }
-.inverted ul.header-nav li a { color: #fff; }
+.nav-inverted .rw-logo a { background-image: url(../img/rw-logo-white.png); }
+.nav-inverted .sidebar-toggle:before { color: #fff; }
+.nav-inverted ul.header-nav li a { color: #fff; }
+.nav-inverted .sidebar-toggle { color: #fff; }
 
 /*
 * Sidebar
@@ -1568,11 +1566,15 @@ ul.header-nav li a i { font-size: 22px; line-height: 30px; }
 /* .about { @include media-query (md) { .masthead { padding:0; } .container-header { margin:0; padding:0; } .header-nav { background:#000; padding: 10px 20px 10px 5px; }
  }
 } */
-.about-header { background: #202020 url(../img/about-header-xs.jpg) no-repeat center 70px; height: 280px; }
-@media only screen and (min-width: 450px) { .about-header { background-image: url(../img/about-header-sm.jpg); height: 450px; } }
+.about-header { background: #202020 url(../img/about-header-xs.jpg) no-repeat center top; height: 220px; }
+@media only screen and (min-width: 450px) { .about-header { background-image: url(../img/about-header-sm.jpg); height: 380px; } }
 @media only screen and (min-width: 769px) { .about-header { background: #B99E89 url(../img/about-header-md.jpg) no-repeat center 0px; height: 580px; } }
 @media only screen and (min-width: 1200px) { .about-header { background: #B99E89 url(../img/about-header-lg.jpg) no-repeat center 0px; height: 690px; } }
 @media only screen and (min-width: 1400px) { .about-header { background: #B99E89 url(../img/about-header-xl.jpg) no-repeat center 0px; height: 880px; } }
+
+/* Make about hambuger nav have a white bg*/
+.about .sidebar-toggle { background: #fff; color: #000; }
+@media only screen and (max-width: 953px) { .about .masthead-title { display: none; } }
 
 .hello-wrap { float: left; width: 100%; }
 
@@ -1697,7 +1699,7 @@ a.next-link { text-align: center; width: 100%; font-size: 18px; line-height: 2; 
 
 .read-more-link { font-weight: bold; }
 
-.related-strip { background: #e4e4e4; float: left; width: 100%; padding: 20px; }
+.related-strip { background: #e4e4e4; float: left; width: 100%; padding: 22px; }
 @media only screen and (min-width: 769px) { .related-strip { padding: 30px; } }
 .related-strip h2 { text-align: center; margin-bottom: 30px; }
 .related-strip .col-related { margin-bottom: 30px; }

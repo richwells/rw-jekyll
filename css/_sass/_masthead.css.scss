@@ -9,7 +9,10 @@
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
+  @include media-query (sm) {
+    margin-bottom: 3rem;
+  }
 }
 .masthead-title {
   margin-top: 0;

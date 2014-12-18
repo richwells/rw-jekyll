@@ -96,8 +96,12 @@
   }
   [class*='col-'] {
     @include media-query (sm) {
+      padding: 0 10px;
+    }
+    @include media-query (lg) {
       padding: 0 20px;
     }
+
   }
   .grid {
     @include media-query (lg) {

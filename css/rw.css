@@ -1710,7 +1710,8 @@ a.next-link { text-align: center; width: 100%; font-size: 18px; line-height: 2; 
 @media only screen and (min-width: 769px) { .related-strip { padding: 30px; } }
 .related-strip h2 { text-align: center; margin-bottom: 30px; }
 .related-strip .col-related { margin-bottom: 30px; }
-@media only screen and (min-width: 769px) { .related-strip [class*='col-'] { padding: 0 20px; } }
+@media only screen and (min-width: 769px) { .related-strip [class*='col-'] { padding: 0 10px; } }
+@media only screen and (min-width: 1200px) { .related-strip [class*='col-'] { padding: 0 20px; } }
 @media only screen and (min-width: 1200px) { .related-strip .grid { max-width: 1400px; float: none; margin: 0 auto; } }
 
 .col-related h3 { margin: 0; font-size: 20px; }

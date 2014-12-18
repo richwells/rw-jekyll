@@ -72,9 +72,6 @@ p, img, .fitvids {
   @include media-query (xs) {
     margin-bottom: 30px;
   }
-  @include media-query (md) {
-    margin-bottom: 40px;
-  }
 }
 
 strong {
@@ -198,7 +195,7 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  border-radius: 5px;
+  /* border-radius: 5px; */
 }
 img.small {
   @include media-query (sm) {

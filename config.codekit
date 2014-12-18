@@ -896,6 +896,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_posts\/tumblr\/2014-07-09-strong-and-northern.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/tumblr\/2014-07-09-strong-and-northern.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_posts\/tumblr\/2014-07-09-summer-of-cycling.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1598,6 +1607,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/blog\/strong-and-northern\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/strong-and-northern\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/blog\/summer-of-cycling\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1812,6 +1830,50 @@
 		"initialSize": 73144,
 		"inputAbbreviatedPath": "\/_site\/downloads\/better-google-tasks.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/better-google-tasks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/bgt-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88522,
+		"inputAbbreviatedPath": "\/_site\/downloads\/bgt-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/bgt-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/bgt-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94934,
+		"inputAbbreviatedPath": "\/_site\/downloads\/bgt-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/bgt-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/bgt-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97535,
+		"inputAbbreviatedPath": "\/_site\/downloads\/bgt-3.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/bgt-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/bgt-before.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71656,
+		"inputAbbreviatedPath": "\/_site\/downloads\/bgt-before.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/bgt-before.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2472,6 +2534,17 @@
 		"initialSize": 199632,
 		"inputAbbreviatedPath": "\/_site\/downloads\/stretch-o-clock.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/stretch-o-clock.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/strong-and-northern.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.60874e+06,
+		"inputAbbreviatedPath": "\/_site\/downloads\/strong-and-northern.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/strong-and-northern.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5302,6 +5375,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/page10\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/page10\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/page2\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5908,6 +5990,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/tag\/hendersons\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tag\/hendersons\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/tag\/holiday\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -6487,6 +6578,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/css\/_sass\/_buttons.css.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/_sass\/_buttons.css.scss",
+		"outputAbbreviatedPath": "\/css\/css\/_buttons.css.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/css\/_sass\/_font-awesome.css.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -6731,6 +6838,50 @@
 		"initialSize": 73144,
 		"inputAbbreviatedPath": "\/downloads\/better-google-tasks.jpg",
 		"outputAbbreviatedPath": "\/downloads\/better-google-tasks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/bgt-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 136732,
+		"inputAbbreviatedPath": "\/downloads\/bgt-1.jpg",
+		"outputAbbreviatedPath": "\/downloads\/bgt-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/bgt-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94934,
+		"inputAbbreviatedPath": "\/downloads\/bgt-2.jpg",
+		"outputAbbreviatedPath": "\/downloads\/bgt-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/bgt-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97535,
+		"inputAbbreviatedPath": "\/downloads\/bgt-3.jpg",
+		"outputAbbreviatedPath": "\/downloads\/bgt-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/bgt-before.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71656,
+		"inputAbbreviatedPath": "\/downloads\/bgt-before.jpg",
+		"outputAbbreviatedPath": "\/downloads\/bgt-before.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -7391,6 +7542,17 @@
 		"initialSize": 107896,
 		"inputAbbreviatedPath": "\/downloads\/stretch-o-clock.jpg",
 		"outputAbbreviatedPath": "\/downloads\/stretch-o-clock.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/strong-and-northern.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.60874e+06,
+		"inputAbbreviatedPath": "\/downloads\/strong-and-northern.jpg",
+		"outputAbbreviatedPath": "\/downloads\/strong-and-northern.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

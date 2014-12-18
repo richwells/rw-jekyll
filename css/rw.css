@@ -11,6 +11,8 @@ html { font-size: 16px; line-height: 1.5; }
 @media (min-width: 38em) { html { font-size: 20px; } }
 body { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
+::selection { background: #ffee35; /* WebKit/Blink Browsers */ }
+
 /* No `:visited` state is required by default (browsers will use `a`) */
 a { color: #268bd2; text-decoration: none; }
 
@@ -1424,7 +1426,7 @@ a.btn, .post p a.btn { display: inline-block; padding: 10px 17px; font-weight: b
 .pagination { overflow: hidden; /* clearfix */ margin-left: -1rem; margin-right: -1rem; color: #ccc; text-align: center; }
 
 /* Pagination items can be `span`s or `a`s */
-.pagination-item { display: block; padding: 1rem; border: 1px solid #eee; }
+.pagination-item { display: block; padding: 1rem; margin: 15px; font-weight: bold; border: 2px solid #000; }
 
 .pagination-item:first-child { margin-bottom: -1px; }
 
@@ -1432,9 +1434,9 @@ a.btn, .post p a.btn { display: inline-block; padding: 10px 17px; font-weight: b
 a.pagination-item:hover { background-color: #f5f5f5; }
 
 @media (min-width: 30em) { .pagination { margin: 3rem 0; }
-  .pagination-item { float: left; width: 50%; }
-  .pagination-item:first-child { margin-bottom: 0; border-top-left-radius: 4px; border-bottom-left-radius: 4px; }
-  .pagination-item:last-child { margin-left: -1px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; } }
+  .pagination-item { float: left; width: 49%; margin: 0; }
+  .pagination-item:first-child { margin-bottom: 0; }
+  .pagination-item:last-child { float: right; margin-left: -1px; } }
 /*
 * Container
 *
@@ -1467,7 +1469,7 @@ a.pagination-item:hover { background-color: #f5f5f5; }
 
 @media only screen and (min-width: 954px) { .wide { width: 960px; max-width: 960px; margin-left: -120px; } }
 
-#scrollUp { bottom: 20px; right: 20px; padding: 10px 20px; background-color: #fff; color: #333; border: 1px solid #737373; }
+#scrollUp { bottom: 20px; right: 20px; padding: 10px 20px; background-color: #fff; color: #333; border: 2px solid #000; }
 
 .w100 { width: 100%; }
 

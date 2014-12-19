@@ -7384,11 +7384,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/tag\/Sketchbook\/index.html": {
+	"\/_site\/tag\/sketchbook\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/tag\/Sketchbook\/index.html",
+		"inputAbbreviatedPath": "\/_site\/tag\/sketchbook\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

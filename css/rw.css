@@ -1690,7 +1690,7 @@ a.next-link { text-align: center; width: 100%; font-size: 18px; line-height: 2; 
 
 .post-preview img { width: 100%; }
 
-.all-posts-link { font-size: 16px; border-bottom: 1px solid #999; margin: 0 0 0 -30px; position: absolute; display: block; float: left; top: 19px; padding: 0 1px; right: 19%; color: #999; }
+.all-posts-link { font-size: 16px; border-bottom: 1px solid #999; margin: 0 0 0 -30px; position: absolute; display: block; float: left; top: 19px; padding: 0 1px; right: 21%; color: #999; }
 @media only screen and (min-width: 769px) { .all-posts-link { right: 52%; margin: 0 0 0 -46px; } }
 .all-posts-link .fa { margin-right: 2px; }
 .all-posts-link:hover { text-decoration: none; color: #000; }

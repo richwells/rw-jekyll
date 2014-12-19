@@ -1945,6 +1945,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/downloads\/bgt-completed.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23264,
+		"inputAbbreviatedPath": "\/_site\/downloads\/bgt-completed.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/bgt-completed.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/downloads\/blessed-are-those-who-mourn-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8049,6 +8060,17 @@
 		"initialSize": 71656,
 		"inputAbbreviatedPath": "\/downloads\/bgt-before.jpg",
 		"outputAbbreviatedPath": "\/downloads\/bgt-before.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/bgt-completed.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23264,
+		"inputAbbreviatedPath": "\/downloads\/bgt-completed.jpg",
+		"outputAbbreviatedPath": "\/downloads\/bgt-completed.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

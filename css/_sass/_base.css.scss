@@ -66,12 +66,15 @@ h4, h5, h6 {
 }
 
 /* Body text */
-p, img, .fitvids {
+p, img, .fitvids, video {
   margin-top: 0;
   margin-bottom: 20px;
   @include media-query (xs) {
     margin-bottom: 30px;
   }
+}
+video {
+  width:100%;
 }
 
 strong {

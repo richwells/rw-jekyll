@@ -1,5 +1,6 @@
 .footer {
-  border-top: 1px solid #eee;
+  background:#fff;
+  border-top: 1px solid #000;
   float:left;
   width:100%;
 }
@@ -20,4 +21,9 @@
 .col-networks,
 .col-play {
   float:right;
+}
+.copyright {
+  font-size: 12px;
+  margin: 20px 0;
+  text-align: center;
 }

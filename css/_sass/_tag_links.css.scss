@@ -31,7 +31,7 @@ ul.blog-tag-list {
 .tag-yoomee a.tag-link-yoomee,
 .tag-video a.tag-link-video,
 .blog-index .tag-everything a.tag-link-everything,
-.tag-tfbloggers a.tag-link-tfbloggers,
+.tag-travels a.tag-link-travels,
 .tag-ux a.tag-link-ux,
 .tag-inspiration a.tag-link-inspiration
 {
@@ -59,9 +59,13 @@ body.yoomee {
 body.video {
   background:#6dff99;
 }
-body.tfbloggers {
+body.travels {
   background:#79c9d6;
 }
 body.ux {
   background:#BFABF9;
+  background:#FFDA46;
+}
+body.thoughts {
+  background:#97DD75;
 }

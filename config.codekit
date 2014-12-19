@@ -155,11 +155,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_posts\/tumblr\/2011-02-05-lanterns.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/tumblr\/2011-02-05-lanterns.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_posts\/tumblr\/2011-02-05-lift11.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_posts\/tumblr\/2011-02-05-lift11.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_posts\/tumblr\/2011-02-05-various-logos.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/tumblr\/2011-02-05-various-logos.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -758,6 +776,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_posts\/tumblr\/2014-03-11-summer.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/tumblr\/2014-03-11-summer.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_posts\/tumblr\/2014-03-13-wooden-kitchen.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -808,6 +835,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_posts\/tumblr\/2014-03-19-tuol-sleng.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_posts\/tumblr\/2014-03-20-cambodia-scrapbook.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/tumblr\/2014-03-20-cambodia-scrapbook.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1073,6 +1109,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/blog\/cambodia-scrapbook\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/cambodia-scrapbook\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/blog\/castle-market\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1280,15 +1325,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/blog\/haemnet\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/haemnet\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/blog\/hendersons-strong-and-northern\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1330,6 +1366,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/blog\/joseph\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/lanterns\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/lanterns\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1640,6 +1685,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/blog\/summer\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/summer\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/blog\/sunset-over-higger-tor-in-the-peak-district\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1766,6 +1820,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/blog\/various-logos\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/various-logos\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/blog\/vicar-clothes\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1878,6 +1941,127 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/_site\/downloads\/100dbc-book-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74915,
+		"inputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/100dbc-book-10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59989,
+		"inputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-10.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/100dbc-book-11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107175,
+		"inputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-11.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/100dbc-book-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63509,
+		"inputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/100dbc-book-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64965,
+		"inputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-3.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/100dbc-book-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55805,
+		"inputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-4.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/100dbc-book-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54680,
+		"inputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-5.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/100dbc-book-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44243,
+		"inputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-6.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/100dbc-book-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80460,
+		"inputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-7.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/100dbc-book-8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62769,
+		"inputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-8.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/100dbc-book-9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60978,
+		"inputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-9.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/100dbc-book-9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/_site\/downloads\/4-knows.jpg": {
 		"fileType": 16384,
@@ -2176,6 +2360,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/downloads\/coffee-plus.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50764,
+		"inputAbbreviatedPath": "\/_site\/downloads\/coffee-plus.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/coffee-plus.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/downloads\/day-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2308,6 +2503,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/downloads\/lantern-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113060,
+		"inputAbbreviatedPath": "\/_site\/downloads\/lantern-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/lantern-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/lantern-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 132612,
+		"inputAbbreviatedPath": "\/_site\/downloads\/lantern-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/lantern-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/downloads\/learn-by-doing.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2326,6 +2543,17 @@
 		"initialSize": 569431,
 		"inputAbbreviatedPath": "\/_site\/downloads\/les-alpes.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/les-alpes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/life-church.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154902,
+		"inputAbbreviatedPath": "\/_site\/downloads\/life-church.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/life-church.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2385,6 +2613,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/downloads\/piefighter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31391,
+		"inputAbbreviatedPath": "\/_site\/downloads\/piefighter.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/piefighter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/downloads\/quote-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2403,6 +2642,72 @@
 		"initialSize": 418272,
 		"inputAbbreviatedPath": "\/_site\/downloads\/reflections-on-cambodia.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/reflections-on-cambodia.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/scrapbook-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 257345,
+		"inputAbbreviatedPath": "\/_site\/downloads\/scrapbook-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/scrapbook-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/scrapbook-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 199892,
+		"inputAbbreviatedPath": "\/_site\/downloads\/scrapbook-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/scrapbook-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/scrapbook-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152230,
+		"inputAbbreviatedPath": "\/_site\/downloads\/scrapbook-3.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/scrapbook-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/scrapbook-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 347591,
+		"inputAbbreviatedPath": "\/_site\/downloads\/scrapbook-4.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/scrapbook-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/scrapbook-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 355254,
+		"inputAbbreviatedPath": "\/_site\/downloads\/scrapbook-6.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/scrapbook-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/scrapbook-8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 254477,
+		"inputAbbreviatedPath": "\/_site\/downloads\/scrapbook-8.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/scrapbook-8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2660,6 +2965,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/downloads\/study-yorkshire-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29708,
+		"inputAbbreviatedPath": "\/_site\/downloads\/study-yorkshire-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/study-yorkshire-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/downloads\/summer-of-cycling.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2667,6 +2983,17 @@
 		"initialSize": 243296,
 		"inputAbbreviatedPath": "\/_site\/downloads\/summer-of-cycling.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/summer-of-cycling.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/summer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 276954,
+		"inputAbbreviatedPath": "\/_site\/downloads\/summer.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/summer.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5641,6 +5968,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/bgt\/cambodia-title-elsewhere.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39845,
+		"inputAbbreviatedPath": "\/_site\/img\/bgt\/cambodia-title-elsewhere.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/bgt\/cambodia-title-elsewhere.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/bgt\/cambodia-title-permalink.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60309,
+		"inputAbbreviatedPath": "\/_site\/img\/bgt\/cambodia-title-permalink.png",
+		"outputAbbreviatedPath": "\/_site\/img\/bgt\/cambodia-title-permalink.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/bgt\/cambodia-title-sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26355,
+		"inputAbbreviatedPath": "\/_site\/img\/bgt\/cambodia-title-sm.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/bgt\/cambodia-title-sm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/bgt\/cambodia-title.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60269,
+		"inputAbbreviatedPath": "\/_site\/img\/bgt\/cambodia-title.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/bgt\/cambodia-title.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/bgt\/favicon-128.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -5824,6 +6195,17 @@
 		"initialSize": 5326,
 		"inputAbbreviatedPath": "\/_site\/img\/bgt\/rw_logo.png",
 		"outputAbbreviatedPath": "\/_site\/img\/bgt\/rw_logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/bgt\/scrapbook-title.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18873,
+		"inputAbbreviatedPath": "\/_site\/img\/bgt\/scrapbook-title.png",
+		"outputAbbreviatedPath": "\/_site\/img\/bgt\/scrapbook-title.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6121,6 +6503,17 @@
 		"initialSize": 7759,
 		"inputAbbreviatedPath": "\/_site\/img\/sidebar-doodles.png",
 		"outputAbbreviatedPath": "\/_site\/img\/sidebar-doodles.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/sig.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19304,
+		"inputAbbreviatedPath": "\/_site\/img\/sig.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/sig.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6572,6 +6965,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/page9\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/signpost\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/signpost\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -7998,6 +8400,127 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/downloads\/100dbc-book-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74915,
+		"inputAbbreviatedPath": "\/downloads\/100dbc-book-1.jpg",
+		"outputAbbreviatedPath": "\/downloads\/100dbc-book-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/100dbc-book-10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59989,
+		"inputAbbreviatedPath": "\/downloads\/100dbc-book-10.jpg",
+		"outputAbbreviatedPath": "\/downloads\/100dbc-book-10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/100dbc-book-11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107175,
+		"inputAbbreviatedPath": "\/downloads\/100dbc-book-11.jpg",
+		"outputAbbreviatedPath": "\/downloads\/100dbc-book-11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/100dbc-book-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63509,
+		"inputAbbreviatedPath": "\/downloads\/100dbc-book-2.jpg",
+		"outputAbbreviatedPath": "\/downloads\/100dbc-book-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/100dbc-book-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64965,
+		"inputAbbreviatedPath": "\/downloads\/100dbc-book-3.jpg",
+		"outputAbbreviatedPath": "\/downloads\/100dbc-book-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/100dbc-book-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55805,
+		"inputAbbreviatedPath": "\/downloads\/100dbc-book-4.jpg",
+		"outputAbbreviatedPath": "\/downloads\/100dbc-book-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/100dbc-book-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54680,
+		"inputAbbreviatedPath": "\/downloads\/100dbc-book-5.jpg",
+		"outputAbbreviatedPath": "\/downloads\/100dbc-book-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/100dbc-book-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44243,
+		"inputAbbreviatedPath": "\/downloads\/100dbc-book-6.jpg",
+		"outputAbbreviatedPath": "\/downloads\/100dbc-book-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/100dbc-book-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80460,
+		"inputAbbreviatedPath": "\/downloads\/100dbc-book-7.jpg",
+		"outputAbbreviatedPath": "\/downloads\/100dbc-book-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/100dbc-book-8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62769,
+		"inputAbbreviatedPath": "\/downloads\/100dbc-book-8.jpg",
+		"outputAbbreviatedPath": "\/downloads\/100dbc-book-8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/100dbc-book-9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60978,
+		"inputAbbreviatedPath": "\/downloads\/100dbc-book-9.jpg",
+		"outputAbbreviatedPath": "\/downloads\/100dbc-book-9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/downloads\/4-knows.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8295,6 +8818,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/downloads\/coffee-plus.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42718,
+		"inputAbbreviatedPath": "\/downloads\/coffee-plus.jpg",
+		"outputAbbreviatedPath": "\/downloads\/coffee-plus.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/downloads\/day-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8427,6 +8961,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/downloads\/lantern-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113060,
+		"inputAbbreviatedPath": "\/downloads\/lantern-1.jpg",
+		"outputAbbreviatedPath": "\/downloads\/lantern-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/lantern-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 132612,
+		"inputAbbreviatedPath": "\/downloads\/lantern-2.jpg",
+		"outputAbbreviatedPath": "\/downloads\/lantern-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/downloads\/learn-by-doing.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8445,6 +9001,17 @@
 		"initialSize": 569431,
 		"inputAbbreviatedPath": "\/downloads\/les-alpes.jpg",
 		"outputAbbreviatedPath": "\/downloads\/les-alpes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/life-church.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 172991,
+		"inputAbbreviatedPath": "\/downloads\/life-church.jpg",
+		"outputAbbreviatedPath": "\/downloads\/life-church.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8504,6 +9071,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/downloads\/piefighter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26164,
+		"inputAbbreviatedPath": "\/downloads\/piefighter.jpg",
+		"outputAbbreviatedPath": "\/downloads\/piefighter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/downloads\/quote-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8522,6 +9100,72 @@
 		"initialSize": 418272,
 		"inputAbbreviatedPath": "\/downloads\/reflections-on-cambodia.jpg",
 		"outputAbbreviatedPath": "\/downloads\/reflections-on-cambodia.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/scrapbook-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 257345,
+		"inputAbbreviatedPath": "\/downloads\/scrapbook-1.jpg",
+		"outputAbbreviatedPath": "\/downloads\/scrapbook-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/scrapbook-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 199892,
+		"inputAbbreviatedPath": "\/downloads\/scrapbook-2.jpg",
+		"outputAbbreviatedPath": "\/downloads\/scrapbook-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/scrapbook-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152230,
+		"inputAbbreviatedPath": "\/downloads\/scrapbook-3.jpg",
+		"outputAbbreviatedPath": "\/downloads\/scrapbook-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/scrapbook-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 347591,
+		"inputAbbreviatedPath": "\/downloads\/scrapbook-4.jpg",
+		"outputAbbreviatedPath": "\/downloads\/scrapbook-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/scrapbook-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 355254,
+		"inputAbbreviatedPath": "\/downloads\/scrapbook-6.jpg",
+		"outputAbbreviatedPath": "\/downloads\/scrapbook-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/scrapbook-8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 254477,
+		"inputAbbreviatedPath": "\/downloads\/scrapbook-8.jpg",
+		"outputAbbreviatedPath": "\/downloads\/scrapbook-8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8779,6 +9423,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/downloads\/study-yorkshire-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20220,
+		"inputAbbreviatedPath": "\/downloads\/study-yorkshire-2.jpg",
+		"outputAbbreviatedPath": "\/downloads\/study-yorkshire-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/downloads\/summer-of-cycling.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8786,6 +9441,17 @@
 		"initialSize": 243296,
 		"inputAbbreviatedPath": "\/downloads\/summer-of-cycling.jpg",
 		"outputAbbreviatedPath": "\/downloads\/summer-of-cycling.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/summer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 276954,
+		"inputAbbreviatedPath": "\/downloads\/summer.jpg",
+		"outputAbbreviatedPath": "\/downloads\/summer.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -11760,6 +12426,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/bgt\/cambodia-title-elsewhere.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39845,
+		"inputAbbreviatedPath": "\/img\/bgt\/cambodia-title-elsewhere.jpg",
+		"outputAbbreviatedPath": "\/img\/bgt\/cambodia-title-elsewhere.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/bgt\/cambodia-title-permalink.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60309,
+		"inputAbbreviatedPath": "\/img\/bgt\/cambodia-title-permalink.png",
+		"outputAbbreviatedPath": "\/img\/bgt\/cambodia-title-permalink.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/bgt\/cambodia-title-sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26355,
+		"inputAbbreviatedPath": "\/img\/bgt\/cambodia-title-sm.jpg",
+		"outputAbbreviatedPath": "\/img\/bgt\/cambodia-title-sm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/bgt\/cambodia-title.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60269,
+		"inputAbbreviatedPath": "\/img\/bgt\/cambodia-title.jpg",
+		"outputAbbreviatedPath": "\/img\/bgt\/cambodia-title.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/bgt\/favicon-128.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -11943,6 +12653,17 @@
 		"initialSize": 5326,
 		"inputAbbreviatedPath": "\/img\/bgt\/rw_logo.png",
 		"outputAbbreviatedPath": "\/img\/bgt\/rw_logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/bgt\/scrapbook-title.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18873,
+		"inputAbbreviatedPath": "\/img\/bgt\/scrapbook-title.png",
+		"outputAbbreviatedPath": "\/img\/bgt\/scrapbook-title.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -12240,6 +12961,17 @@
 		"initialSize": 11057,
 		"inputAbbreviatedPath": "\/img\/sidebar-doodles.png",
 		"outputAbbreviatedPath": "\/img\/sidebar-doodles.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sig.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19304,
+		"inputAbbreviatedPath": "\/img\/sig.jpg",
+		"outputAbbreviatedPath": "\/img\/sig.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -12613,6 +13345,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/signpost\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/signpost\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/storytime\/1.html": {
 		"fileType": 8192,

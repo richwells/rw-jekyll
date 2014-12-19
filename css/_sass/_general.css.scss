@@ -9,3 +9,21 @@
 .w100 {
   width:100%;
 }
+.sig {
+  margin: 50px auto 120px;
+  width: 110px;
+  @include media-query (md) {
+    width:150px;
+  }
+}
+h2.sig-title {
+  font-weight:normal;
+  text-align: center;
+  line-height: 1.2;
+  font-size:20px;
+  margin:30px 10px;
+  @include media-query (sm) {
+    font-size: 40px;
+    margin:70px 0;
+  }
+}

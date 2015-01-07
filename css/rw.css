@@ -24,7 +24,8 @@ a:hover, a:focus { text-decoration: underline; }
 /* Headings */
 h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: bold; line-height: 1.25; color: #313131; text-rendering: optimizeLegibility; }
 
-h1 { font-size: 2rem; }
+h1 { font-size: 28px; }
+@media only screen and (min-width: 450px) { h1 { font-size: 2rem; } }
 
 h2 { margin-top: 1rem; font-size: 1.5rem; }
 
@@ -1462,10 +1463,10 @@ a.pagination-item:hover { background-color: #f5f5f5; }
 
 .col-1-8 { width: 12.5%; }
 
-@media only screen and (max-width: 768px) { [class*='col-'] { width: 100%; padding: 0; } }
+@media only screen and (max-width: 450px) { [class*='col-'] { width: 100%; padding: 0; } }
 
 @media only screen and (max-width: 953px) { .related-strip .grid .col-related { width: 50%; padding: 0px 10px; } }
-@media only screen and (max-width: 768px) { .related-strip .grid .col-related { width: 100%; padding: 0px; } }
+@media only screen and (max-width: 450px) { .related-strip .grid .col-related { width: 100%; padding: 0px; } }
 
 /* Opt-in outside padding */
 .grid-pad { padding: 30px 0 30px 30px; }
@@ -1482,6 +1483,9 @@ a.pagination-item:hover { background-color: #f5f5f5; }
 
 h2.sig-title { font-weight: normal; text-align: center; line-height: 1.2; font-size: 20px; margin: 30px 10px; }
 @media only screen and (min-width: 769px) { h2.sig-title { font-size: 40px; margin: 70px 0; } }
+
+.alert { padding: 15px; background: #FFF0A4; color: #000; margin: 0 0 20px; }
+.alert p, .alert h3 { margin: 0; }
 
 /* Navigation stuff */
 /*

@@ -1,0 +1,9 @@
+.farewell-daddy-daycare {
+  @include media-query (md) {
+    background: url(/downloads/farewell-daddy-daycare-strip-md.jpg) repeat-x center 70px;
+    .post {
+      background: #fff;
+      margin-top: 500px;
+    }
+  }
+}

@@ -1217,7 +1217,7 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th { background-color: #f9f9
 
 html, body { overflow-x: hidden; margin: 0; padding: 0; }
 
-html { font-family: "Karla", helvetica, Arial, sans-serif; color: #515151; }
+html { font-family: "Karla", helvetica, Arial, sans-serif; color: #000; }
 
 h1, h2, h3, h4, h5, h6 { font-family: "Karla", Helvetica, Arial, sans-serif; font-weight: 600; color: #313131; letter-spacing: -.025rem; }
 
@@ -1779,5 +1779,8 @@ body.thoughts { background: #97DD75; }
 .storytime-wrap { margin: 0 auto; padding: 100px; display: table; }
 
 .storytime-inner { display: table-cell; text-align: center; vertical-align: middle; }
+
+@media only screen and (min-width: 954px) { .farewell-daddy-daycare { background: url(/downloads/farewell-daddy-daycare-strip-md.jpg) repeat-x center 70px; }
+  .farewell-daddy-daycare .post { background: #fff; margin-top: 500px; } }
 
 /*# sourceMappingURL=rw.css.map */

@@ -13,12 +13,27 @@
     {% endif %}
   </title>
 
-  <meta name="author" content="Rich Wells">
+  {% if page.title %}
+    <meta name="title" content="{{ page.title }}">
+    <meta property="og:title" content="{{ page.title }}">
+    {% else %}
+    <meta name="title" content="{{ site.title }}">
+    <meta property="og:title" content="{{ site.title }}">
+  {% endif %}
+  <meta property="og:url" content="http://richwells.me{{ page.permalink }}.html"/>
+  {% if page.img %}
+    <meta property="og:image" content="http://richwells.github.io/richwells.me/downloads/{{ page.img }}" />
+  {% endif %}
+
   {% if page.intro %}
     <meta content="{{ page.intro }}" name="Description">
+    <meta property="og:description" content="{{ page.description }}"/>
     {% else %}
     <meta content="{{ site.description }}" name="Description">
   {% endif %}
+
+
+  <meta name="author" content="Rich Wells">
   <meta content="index, follow" name="robots">
 
 
@@ -45,7 +60,6 @@
   <script type="text/javascript" src="{{ site.baseurl }}/js/jquery.scrollUp.min.js"></script>
   <script type="text/javascript" src="{{ site.baseurl }}/js/imagesloaded.pkgd.min.js"></script>
   <script type="text/javascript" src="{{ site.baseurl }}/js/isotope.js"></script>
-
 
 
   {% if page.head-content %}

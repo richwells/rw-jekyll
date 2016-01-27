@@ -20,12 +20,13 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color:#000;
 }
-.post p a, .footer a, .listy-right a {
+.post p a, .footer a, .listy-right a, .post li a {
   border-bottom: 1px solid #000;
   &:hover {
     text-decoration:none;
     border-bottom-color:#ccc;
   }
+  
 }
 .read-more-link, .cta {
   font-weight:bold;

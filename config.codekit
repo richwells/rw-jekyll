@@ -227,6 +227,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_posts\/2016-01-27-sheffield-digital.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/2016-01-27-sheffield-digital.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_posts\/tumblr\/2011-02-05-lanterns.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -3131,6 +3140,94 @@
 		"initialSize": 254477,
 		"inputAbbreviatedPath": "\/_site\/downloads\/scrapbook-8.jpg",
 		"outputAbbreviatedPath": "\/_site\/downloads\/scrapbook-8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/sd-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106769,
+		"inputAbbreviatedPath": "\/_site\/downloads\/sd-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/sd-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/sd-ideas.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 315816,
+		"inputAbbreviatedPath": "\/_site\/downloads\/sd-ideas.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/sd-ideas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/sd-logo-grid.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16505,
+		"inputAbbreviatedPath": "\/_site\/downloads\/sd-logo-grid.png",
+		"outputAbbreviatedPath": "\/_site\/downloads\/sd-logo-grid.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/sd-map.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 195997,
+		"inputAbbreviatedPath": "\/_site\/downloads\/sd-map.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/sd-map.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/sd-moodboard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 172555,
+		"inputAbbreviatedPath": "\/_site\/downloads\/sd-moodboard.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/sd-moodboard.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/sd-tshirts.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 248080,
+		"inputAbbreviatedPath": "\/_site\/downloads\/sd-tshirts.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/sd-tshirts.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/sd-website.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 213773,
+		"inputAbbreviatedPath": "\/_site\/downloads\/sd-website.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/sd-website.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/downloads\/sd-workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108397,
+		"inputAbbreviatedPath": "\/_site\/downloads\/sd-workshop.jpg",
+		"outputAbbreviatedPath": "\/_site\/downloads\/sd-workshop.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -7892,6 +7989,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/sheffield-digital\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/sheffield-digital\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/signpost\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -10501,6 +10607,94 @@
 		"initialSize": 254477,
 		"inputAbbreviatedPath": "\/downloads\/scrapbook-8.jpg",
 		"outputAbbreviatedPath": "\/downloads\/scrapbook-8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/sd-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106769,
+		"inputAbbreviatedPath": "\/downloads\/sd-1.jpg",
+		"outputAbbreviatedPath": "\/downloads\/sd-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/sd-ideas.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 315816,
+		"inputAbbreviatedPath": "\/downloads\/sd-ideas.jpg",
+		"outputAbbreviatedPath": "\/downloads\/sd-ideas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/sd-logo-grid.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16505,
+		"inputAbbreviatedPath": "\/downloads\/sd-logo-grid.png",
+		"outputAbbreviatedPath": "\/downloads\/sd-logo-grid.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/sd-map.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 195997,
+		"inputAbbreviatedPath": "\/downloads\/sd-map.jpg",
+		"outputAbbreviatedPath": "\/downloads\/sd-map.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/sd-moodboard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 172555,
+		"inputAbbreviatedPath": "\/downloads\/sd-moodboard.jpg",
+		"outputAbbreviatedPath": "\/downloads\/sd-moodboard.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/sd-tshirts.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 248080,
+		"inputAbbreviatedPath": "\/downloads\/sd-tshirts.jpg",
+		"outputAbbreviatedPath": "\/downloads\/sd-tshirts.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/sd-website.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 213773,
+		"inputAbbreviatedPath": "\/downloads\/sd-website.jpg",
+		"outputAbbreviatedPath": "\/downloads\/sd-website.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/downloads\/sd-workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108397,
+		"inputAbbreviatedPath": "\/downloads\/sd-workshop.jpg",
+		"outputAbbreviatedPath": "\/downloads\/sd-workshop.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 28px;  
+  font-size: 28px;
   @include media-query (xs) {
     font-size: 2rem;
   }
@@ -208,12 +208,10 @@ img.small {
   @include media-query (sm) {
     max-width: 450px;
     text-align: center;
-    display: inline-block;
-    margin-left: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     float: none;
-  }
-  @include media-query (md) {
-    margin-left:120px;
   }
 }
 

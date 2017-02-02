@@ -7,15 +7,15 @@ body {
 }
 
 html {
-  font-family: "Karla", helvetica, Arial, sans-serif;
-  color:#000;
+  font-family: "sofia-pro", helvetica, Arial, sans-serif;
+  color:#444;
+  -webkit-font-smoothing: antialiased;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Karla", Helvetica, Arial, sans-serif;
   font-weight: 600;
-  color: #313131;
-  letter-spacing: -.025rem;
+  color: #000;
+  -webkit-font-smoothing: auto;
 }
 a {
   color:#000;
@@ -26,7 +26,7 @@ a {
     text-decoration:none;
     border-bottom-color:#ccc;
   }
-  
+
 }
 .read-more-link, .cta {
   font-weight:bold;

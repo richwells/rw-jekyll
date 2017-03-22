@@ -38,6 +38,60 @@
   }
 }
 
+.freelance-cog--top {
+  display:block;
+  position:absolute;
+  bottom:200px;
+  right:50%;
+  margin-right:-75px;
+  text-decoration:none;
+  width:150px;
+  height:150px;
+  display:none;
+  @include media-query (lg) {
+    display:block;
+    right:180px;
+    bottom:140px;
+  }
+}
+.freelance-cog-img {
+  width:150px;
+  height:150px;
+}
+.freelance-cog__thumbs-up {
+  display:block;
+  position:absolute;
+  width: 70px;
+  height:78px;
+  left:50%;
+  top:30px;
+  margin-left:-35px;
+  z-index: 1000;
+}
+.freelance-cog--bottom {
+  width:150px;
+  height:150px;
+  display:block;
+  position:absolute;
+  left:50%;
+  top:0;
+  margin-left:-75px;
+  @include media-query (lg) {
+    display:none;
+  }
+
+}
+.freelance-cog-bottom-wrap {
+  position:relative;
+  width: 100%;
+  float: left;
+  clear:both;
+  height:150px;
+  @include media-query (lg) {
+    display:none;
+  }
+}
+
 /* Make about hambuger nav have a white bg*/
 .about {
   .sidebar-toggle {
@@ -128,9 +182,7 @@ h2.about-intro {
 	width: 20%;
 }
 .listy-right {
-	width: 75%;
-	float: right;
-  letter-spacing: -0.2px;
+  text-align:center;
   a {
     font-weight:bold;
   }

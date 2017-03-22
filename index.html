@@ -1,65 +1,74 @@
 ---
-layout: default
-body-class: blog blog-index
-head-content: "<meta property='og:image' content='http://richwells.me/downloads/rw-share.jpg' />"
+layout: blank
+body-class: about nav-inverted nav-absolute
+head-content: "<meta property='og:image'
+content='http://richwells.me/downloads/rw-share.jpg' />"
 ---
-<div class="tag-everything">
-  {% include tag-links.html %}
+<div class="about-header">
+  <div class="hello-wrap">
+<!--     <img src="{{ site.baseurl }}/img/hello.png" alt="Hello, my name is Rich" class="hello-bubble"> -->
+  </div>
+  <a href="mailto:rich@yoomee.com" class="freelance-cog freelance-cog--top">
+    <img src="{{ site.baseurl }}/img/freelance-cog__thumbs-up.png"class="freelance-cog__thumbs-up"><img src="{{ site.baseurl }}/img/freelance-cog.png"class="freelance-cog-img"alt="Available for freelance projects"></a>
 </div>
 
+<div class="home">
+  <div class="lower-strip">
+    <div class="about-wrap anim-150 mt-3">
+      <h2 class="about-intro">
+        I’m a Creative Director with twelve years experience building brands, digital platforms, products and services.
+      </h2>
 
-{% comment %}
-   {% for tag in site.tags %}
-      <a href="{{ site.baseurl }}/tag/{{ tag | first | slugize }}/">
-          {{ tag | first }}
-      </a>
-  {% endfor %}
-{% endcomment %}
+      <ul class="listy listy-big unstyled">
+        <li>
+          <div class="listy-right">
+            I draw, design, run workshops, write code, illustrate, prototype, test, learn and sometimes even paint. What gets me going is using design to solve problems and create better experiences.
+          </div>
+        </li>
+        <li>
+          <div class="listy-right">
+            I'm currently Creative Director at an Agile web agency called <a href="http://yoomee.com" target="blank">Yoomee</a>. I'm also available for freelance projects.
+          </div>
+        </li>
+        {% comment %}
+        <li>
+          <div class="listy-right">
+            Three questions that are always going round in my head are:
+            - What problem are we trying to solve?
+            - How can we make this a better experience?
+            - How can we use design to create value?
 
-<div class="container">
-  <div class="posts">
-    {% for post in paginator.posts %}
-    <div class="post post-preview {{ post.category }}">
-      <h1 class="post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </h1>
-      <span class="post-date">{{ post.date | date_to_string }}</span>
-      {% if post.video %}
-        {{ post.video }}
-      {% else %}
-        {% if post.img %}
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <img src="{{ site.baseurl }}/downloads/{{post.img}}" alt="{{ post.title }}" class="post-img"/>
-        </a>
-        {% endif %}
-      {% endif %}
-      <p>
-        {% if post.intro %}
-          {{ post.intro }}
-        {% endif %}
+            <!-- My passion is to use design to solve problems, make better experiences and ultimately create value. -->
+          </div>
+        </li>
+
+        <li>
+          <div class="listy-right">
+            On Tuesdays I take the day off to explore the world with my daughter Sophie. Each week we do something new and share it on our <a href="http://dayoffwithsophie.tumblr.com/" target="_blank">Daddy Daycare blog</a>.
+          </div>
+        </li>
+
+        <li>
+          <a href="http://100daybiblechallenge.com" class="listy-left" target="_blank">
+            <img src="{{ site.baseurl }}/img/100-tn.jpg" alt="Day off with Sophie">
+          </a>
+          <div class="listy-right">
+            I like a challenge. A while back I created 100 illustrations over 100 days for a project I set up at my church. You can download all the images for free <a href="http://100daybiblechallenge.com" target="_blank">here.</a>
+          </div>
+        </li>
+        {% endcomment %}
+      </ul>
+      <div class="freelance-cog-bottom-wrap">
+        <a href="mailto:rich@yoomee.com" class="freelance-cog freelance-cog--bottom">
+          <img src="{{ site.baseurl }}/img/freelance-cog__thumbs-up.png"class="freelance-cog__thumbs-up">
+          <img src="{{ site.baseurl }}/img/freelance-cog.png"class="freelance-cog-img"alt="Available for freelance projects"></a>
+
+      </div>
+      <p class="get-in-touch center">
+        <a href="mailto:rich@yoomee.com" class="cta">Get in touch</a> or
+        <a href="{{ site.baseurl }}/projects" class="cta">check out my work</a>
       </p>
-      <a class="read-more-link" href="{{ site.baseurl }}{{ post.url }}">Read more</a>
 
-    </div>
-    {% endfor %}
   </div>
-
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-    {% else %}
-      <span class="pagination-item older">Older</span>
-    {% endif %}
-    {% if paginator.previous_page %}
-      {% if paginator.page == 2 %}
-        <a class="pagination-item newer" href="/">Newer</a>
-      {% else %}
-        <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-      {% endif %}
-    {% else %}
-      <span class="pagination-item newer">Newer</span>
-    {% endif %}
-  </div>
-</div> <!-- end container -->
+</div>
+</div>

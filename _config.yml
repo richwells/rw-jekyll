@@ -3,7 +3,7 @@ markdown:         kramdown
 highighter:       true
 
 # Permalinks
-permalink:        /blog/:title
+permalink:        /projects/:title
 
 # Setup
 title:            Rich Wells
@@ -15,7 +15,8 @@ author:
   name:           'Rich Wells'
   url:            https://twitter.com/richwells
 
-paginate:         10
+paginate:         25
+paginate_path:    "/projects/page:num/"
 
 # Custom vars
 version:          2.0.0

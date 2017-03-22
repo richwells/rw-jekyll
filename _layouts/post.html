@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<a href="{{ site.baseurl }}/" class="all-posts-link">
-  All posts
+<a href="{{ site.baseurl }}/projects/" class="all-posts-link">
+  All projects
 </a>
 <div class="container content">
   <div class="post">
@@ -47,7 +47,9 @@ layout: default
       {% endif %}
       <a href="{{ site.baseurl }}{{ post.url }}">
           <h3 class="post-title">{{ post.title }}</h3>
-          <small>{{ post.date | date_to_string }}</small>
+          {%comment%}
+            <small>{{ post.date | date_to_string }}</small>
+          {%endcomment%}
         </a>
       </div>
     {% endfor %}
